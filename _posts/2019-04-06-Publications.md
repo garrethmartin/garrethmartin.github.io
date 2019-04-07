@@ -12,6 +12,8 @@ categories: posts
 
 ## Publications Submitted to Refereed Journals
 
+**AGN in dwarf galaxies: frequency, triggering processes and the plausibility of AGN feedback** *Kaviraj S.,* ***Martin G.*** *and Silk J.,* ***Submitted to MNRAS***
+
 **Forming massive spheroidal galaxies via single minor mergers,** *Jackson R. A.,* ***Martin G.,*** *Kaviraj S., Laigle C., Devriendt J. E. G., Dubois Y., Pichon C.,* ***submitted to MNRAS***
 
 **When Galaxies Align,** *Bate J., Chisari N. E.,* ***Martin G.,*** *Codis S., Laigle C., Dubois Y., Devriendt J. E. G., Slyz A., Kaviraj S., Pichon C.,
