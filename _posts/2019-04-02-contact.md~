@@ -1,0 +1,11 @@
+---
+layout: post
+title: About me
+cover: HSC.png
+date:   2013-12-09 12:00:00
+categories: posts
+---
+
+I am an astronomer specialising in galaxy evolution, cosmological simulations and survey science. My research lies at the interface between observational and theoretical astronomy, combining state-of-the-art hydrodynamical simulations, survey data and machine-learning techniques. I am particularly interested in how the diversity of present-day galaxy populations arises during their assembly and how underlying processes like mergers, feedback and environmental processes drive these changes.
+
+My most recent work is focussed on developing unsupervised machine learning techniques for classifying objects in large datasets. This has applications for the morphological classification of galaxies, star-galaxy separation, the discovery and grouping of rare objects and the robust quantitative comparison of simulations with observations, which are all challenges faced by upcoming large surveys like WFIRST, Euclid, LSST and JWST. I am also interested in understanding the formation mechanisms, evolution and morphology of low-surface-brightness galaxy populations that have gone almost unnoticed in previous wide-area surveys.
