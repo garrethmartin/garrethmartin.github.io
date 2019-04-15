@@ -2,4 +2,3 @@ name: Flex
 markdown: redcarpet
 #pygments: true
 highlighter: rouge
-plugins: jekyll-seo-tag
