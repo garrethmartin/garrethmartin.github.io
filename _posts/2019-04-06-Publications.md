@@ -21,6 +21,8 @@ Miller S.,* ***submitted to MNRAS***
 
 **Why do extremely massive discs exist today?**, *Jackson R. A.,* ***Martin G.,*** *Kaviraj S., Laigle C., Devriendt J. E. G., Dubois Y., Pichon C., Shabala S.,* ***in preparation***
 
+**Observational and systematic bias effects on the stellar mass function and implications for the stellar mass - halo mass relation**, ***Martin, G.,*** *Devriendt J. E. G., Laigle C., et al.* ***in preparation***
+
 ## Refereed Publications
 
 **Forming massive spheroidal galaxies via single minor mergers,** *Jackson R. A.,* ***Martin G.,*** *Kaviraj S., Laigle C., Devriendt J. E. G., Dubois Y., Pichon C.,* ***submitted to MNRAS***,** *Jackson R. A.,* ***Martin G.,*** *Kaviraj S., Laigle C., Devriendt J. E. G., Dubois Y., Pichon C.,* [***MNRAS, XXX, YYY***](https://doi.org/10.1093/mnras/stz2440 "Jackson et al. 2019")
