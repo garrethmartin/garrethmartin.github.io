@@ -12,22 +12,22 @@ categories: posts
 
 ## Publications Submitted to Refereed Journals
 
-**AGN in dwarf galaxies: frequency, triggering processes and the plausibility of AGN feedback** *Kaviraj S.,* ***Martin G.*** *and Silk J.,* ***Submitted to MNRAS***
-
-**Forming massive spheroidal galaxies via single minor mergers,** *Jackson R. A.,* ***Martin G.,*** *Kaviraj S., Laigle C., Devriendt J. E. G., Dubois Y., Pichon C.,* ***submitted to MNRAS***
-
 **When Galaxies Align,** *Bate J., Chisari N. E.,* ***Martin G.,*** *Codis S., Laigle C., Dubois Y., Devriendt J. E. G., Slyz A., Kaviraj S., Pichon C.,
 Miller S.,* ***submitted to MNRAS***
 
-**A flat trend of star-formation rate with X-ray luminosity of galaxies hosting AGN in the SCUBA-2 Cosmology Legacy Survey,** *Ramasawmy J., Stevens J.,* ***Martin G.,*** *Geach J. E.,* ***submitted to MNRAS***
+**An automated census of galaxy morphology in the HSC-SSP survey,** ***Martin G.,*** *Kaviraj S., Hocking A., Read S. C., Geach J.,* ***submitted to MNRAS***
 
 ## Publications In Preparation
 
 **Why do extremely massive discs exist today?**, *Jackson R. A.,* ***Martin G.,*** *Kaviraj S., Laigle C., Devriendt J. E. G., Dubois Y., Pichon C., Shabala S.,* ***in preparation***
 
-**An automated census of galaxy morphology in the HSC-SSP survey,** ***Martin G.,*** *Kaviraj S., Hocking A., Geach J.,* ***in preparation***
-
 ## Refereed Publications
+
+**Forming massive spheroidal galaxies via single minor mergers,** *Jackson R. A.,* ***Martin G.,*** *Kaviraj S., Laigle C., Devriendt J. E. G., Dubois Y., Pichon C.,* ***submitted to MNRAS***,** *Jackson R. A.,* ***Martin G.,*** *Kaviraj S., Laigle C., Devriendt J. E. G., Dubois Y., Pichon C.,* [***MNRAS, XXX, YYY***](https://doi.org/10.1093/mnras/stz2440 "Jackson et al. 2019")
+
+**AGN in dwarf galaxies: frequency, triggering processes and the plausibility of AGN feedback** *Kaviraj S.,* ***Martin G.*** *and Silk J.,* [***MNRAS, 489, L12***](https://doi.org/10.1093/mnrasl/slz102 "Kaviraj et al. 2019")
+
+**A flat trend of star-formation rate with X-ray luminosity of galaxies hosting AGN in the SCUBA-2 Cosmology Legacy Survey,** *Ramasawmy J., Stevens J.,* ***Martin G.,*** *Geach J. E.,* [***MNRAS, 486, 4320***](https://doi.org/10.1093/mnras/stz1093 "Ramasawmy et al. 2019")
 
 **The formation and evolution of low-surface-brightness galaxies,** ***Martin G.,*** *Kaviraj S., Laigle C., Devriendt J. E. G., Dubois Y., Pichon C., 2019,* [***MNRAS, 485, 796***](https://doi.org/10.1093/mnras/stz356 "G. Martin et al. 2019")
 
