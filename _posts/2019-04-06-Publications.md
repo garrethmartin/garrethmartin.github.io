@@ -6,7 +6,7 @@ date:   2013-12-09 12:00:00
 categories: posts
 ---
 
-*Updated 16th September 2019*
+*Updated 16th September 2019* 
 
 [`ADS Library`](https://ui.adsabs.harvard.edu/public-libraries/nThU2Yw3SUytqSYjksZ8uA "ADS library")
 
@@ -25,7 +25,7 @@ Miller S.,* ***submitted to MNRAS***
 
 ## Refereed Publications
 
-**Forming massive spheroidal galaxies via single minor mergers,** *Jackson R. A.,* ***Martin G.,*** *Kaviraj S., Laigle C., Devriendt J. E. G., Dubois Y., Pichon C.,* ***submitted to MNRAS***,** *Jackson R. A.,* ***Martin G.,*** *Kaviraj S., Laigle C., Devriendt J. E. G., Dubois Y., Pichon C.,* [***MNRAS, XXX, YYY***](https://doi.org/10.1093/mnras/stz2440 "Jackson et al. 2019")
+**Forming massive spheroidal galaxies via single minor mergers,** *Jackson R. A.,* ***Martin G.,*** *Kaviraj S., Laigle C., Devriendt J. E. G., Dubois Y., Pichon C.,* *Jackson R. A.,* ***Martin G.,*** *Kaviraj S., Laigle C., Devriendt J. E. G., Dubois Y., Pichon C.,* [***MNRAS, XXX, YYY***](https://doi.org/10.1093/mnras/stz2440 "Jackson et al. 2019")
 
 **AGN in dwarf galaxies: frequency, triggering processes and the plausibility of AGN feedback** *Kaviraj S.,* ***Martin G.*** *and Silk J.,* [***MNRAS, 489, L12***](https://doi.org/10.1093/mnrasl/slz102 "Kaviraj et al. 2019")
 
