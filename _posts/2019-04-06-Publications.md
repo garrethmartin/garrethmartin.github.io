@@ -8,7 +8,7 @@ categories: posts
 
 *Updated 16th September 2019* 
 
-[`ADS Library`](https://ui.adsabs.harvard.edu/public-libraries/nThU2Yw3SUytqSYjksZ8uA "ADS library")
+[`ADS Library`](https://ui.adsabs.harvard.edu/public-libraries/nThU2Yw3SUytqSYjksZ8uA "ADS library") *&#9632; for most up-to-date version*
 
 ## Publications Submitted to Refereed Journals
 
