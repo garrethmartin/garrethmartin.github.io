@@ -15,7 +15,7 @@ categories: posts
 **When Galaxies Align,** *Bate J., Chisari N. E.,* ***Martin G.,*** *Codis S., Laigle C., Dubois Y., Devriendt J. E. G., Slyz A., Kaviraj S., Pichon C.,
 Miller S.,* ***submitted to MNRAS***
 
-**An automated census of galaxy morphology in the HSC-SSP survey,** ***Martin G.,*** *Kaviraj S., Hocking A., Read S. C., Geach J.,* ***submitted to MNRAS***
+**Galaxy morphological classification in deep-wide surveys via unsupervised machine learning,** ***Martin G.,*** *Kaviraj S., Hocking A., Read S. C., Geach J.,* ***submitted to MNRAS***
 
 ## Publications In Preparation
 
