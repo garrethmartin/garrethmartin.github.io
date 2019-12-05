@@ -12,10 +12,7 @@ categories: posts
 
 ## Publications Submitted to Refereed Journals
 
-**When Galaxies Align,** *Bate J., Chisari N. E.,* ***Martin G.,*** *Codis S., Laigle C., Dubois Y., Devriendt J. E. G., Slyz A., Kaviraj S., Pichon C.,
-Miller S.,* ***submitted to MNRAS***
 
-**Galaxy morphological classification in deep-wide surveys via unsupervised machine learning,** ***Martin G.,*** *Kaviraj S., Hocking A., Read S. C., Geach J.,* ***submitted to MNRAS*** [*arXiv:1909.10537*](https://arxiv.org/abs/1909.10537v1 "arXiv")
 
 ## Publications In Preparation
 
@@ -25,7 +22,12 @@ Miller S.,* ***submitted to MNRAS***
 
 ## Refereed Publications
 
-**Forming massive spheroidal galaxies via single minor mergers,** *Jackson R. A.,* ***Martin G.,*** *Kaviraj S., Laigle C., Devriendt J. E. G., Dubois Y., Pichon C.,* *Jackson R. A.,* ***Martin G.,*** *Kaviraj S., Laigle C., Devriendt J. E. G., Dubois Y., Pichon C.,* [***MNRAS, XXX, YYY***](https://doi.org/10.1093/mnras/stz2440 "Jackson et al. 2019")
+**Galaxy morphological classification in deep-wide surveys via unsupervised machine learning,** ***Martin G.,*** *Kaviraj S., Hocking A., Read S. C., Geach J.,* ***submitted to MNRAS*** [*arXiv:1909.10537*](https://arxiv.org/abs/1909.10537v1 "arXiv")
+
+**When Galaxies Align,** *Bate J., Chisari N. E.,* ***Martin G.,*** *Codis S., Laigle C., Dubois Y., Devriendt J. E. G., Slyz A., Kaviraj S., Pichon C.,
+Miller S.,* [***Published in MNRAS***](https://doi.org/10.1093/mnras/stz3166 "Bates et al. 2019")
+
+**Massive spheroids can form in single minor mergers,** *Jackson R. A.,* ***Martin G.,*** *Kaviraj S., Laigle C., Devriendt J. E. G., Dubois Y., Pichon C.,* *Jackson R. A.,* ***Martin G.,*** *Kaviraj S., Laigle C., Devriendt J. E. G., Dubois Y., Pichon C.,* [***MNRAS, 489, 4679***](https://doi.org/10.1093/mnras/stz2440 "Jackson et al. 2019")
 
 **AGN in dwarf galaxies: frequency, triggering processes and the plausibility of AGN feedback** *Kaviraj S.,* ***Martin G.*** *and Silk J.,* [***MNRAS, 489, L12***](https://doi.org/10.1093/mnrasl/slz102 "Kaviraj et al. 2019")
 
