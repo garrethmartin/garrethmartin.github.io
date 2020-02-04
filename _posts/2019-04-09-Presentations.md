@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Preaentations
+title: Presentations
 cover: HzWeb.png
 date:   2013-12-01 12:00:00
 categories: posts
