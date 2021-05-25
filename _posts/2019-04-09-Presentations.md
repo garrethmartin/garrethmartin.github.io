@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Presentations
-cover: HzWeb.png
+cover: HSC.png
 date:   2013-12-01 12:00:00
 categories: posts
 ---
