@@ -5,6 +5,8 @@ cover: HSC.png
 date:   2013-12-01 12:00:00
 categories: posts
 ---
+### KAS Fall Meeting 2021 *Jeju, Korea* 14/10/2021 *&#9632;* [Preparing for LSB science with the Rubin Observatory: Characterisation of LSB tidal features from mock images](/files/KAS_Fall_2021_talk_final.pdf)
+
 ### Clash of the Titans: the Enigmatic Role of Mergers in Galaxy Evolution
 *Lorentz Centre, Leiden, Netherlands* 08/03/2021 *&#9632;* [Merger and interaction driven evolution in the dwarf regime
 ](/files/Leiden_08_Mar_2021.pdf)
