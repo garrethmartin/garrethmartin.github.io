@@ -16,8 +16,8 @@ html, body {
 }
 
 body {
-  color: #4a4a4a;
-  background-color: #fafbfc;
+  color: #657b83;
+  background-color: #fdf6e3;
   font-family: 'Raleway', Arial, sans-serif;
   font-weight: 400;
   font-size: 0.85em;
@@ -25,7 +25,7 @@ body {
 }
 
 a {
-  color: #8085C1;
+  color: #268bd2;
   text-decoration: none;
   border: none;
 }
@@ -35,12 +35,12 @@ a img {
 }
 
 a:hover {
-  color: #555;
+  color: #586e75;
   border: none;
 }
 
 .separator {
-  color: #555;
+  color: #93a1a1;
 }
 
 /*****************************************************************************/
@@ -53,11 +53,11 @@ a:hover {
 }
 
 .posts a {
-  color: #444;
+  color: #586e75;
 }
 
 .posts a:hover {
-  color: #777;
+  color: #93a1a1;
 }
 
 .posts-list {
@@ -89,7 +89,7 @@ a:hover {
 
 .tagline {
   width: 100%;
-  color: #787878;
+  color: #93a1a1;
   font-weight: 600;
   text-align: center;
   margin-top: 0.5em;
@@ -97,7 +97,7 @@ a:hover {
 }
 
 .posts {
-  border-top: 1px solid #e7e7e7;
+  border-top: 1px solid #d4ceb8;
   margin-top: 1em;
   padding-top: 1.5em;
   padding-bottom: 1.25em;
@@ -105,7 +105,7 @@ a:hover {
 
 .footer {
   font-size: 0.95em;
-  border-top: 1px solid #e7e7e7;
+  border-top: 1px solid #d4ceb8;
   padding-top: 1.25em;
   padding-bottom: 1.5em;
   overflow: hidden;
@@ -125,7 +125,7 @@ a:hover {
   margin-bottom: 2em;
   text-transform: uppercase;
   font-weight: 600;
-  color: #787878;
+  color: #93a1a1;
 }
 
 #cover-photo-container,
@@ -138,7 +138,7 @@ a:hover {
 }
 
 #title {
-  color: #4a4a4a;
+  color: #586e75;
   margin-bottom: 0.35em;
   font-size: 3em;
   line-height: 40px;
@@ -159,7 +159,7 @@ a:hover {
 
 .post a,
 #about a {
-  border-bottom: 1px solid #8085C1;
+  border-bottom: 1px solid #2aa198;
 }
 
 .post a:hover {
@@ -168,8 +168,8 @@ a:hover {
 
 /* standard */
 .post pre {
-  border: 1px solid #ddd;
-  background-color: #eef;
+  border: 1px solid #d4ceb8;
+  background-color: #eee8d5;
   padding: 0 .4em;
 }
 
@@ -186,8 +186,8 @@ a:hover {
 }
 
 .post code {
-  border: 1px solid #ddd;
-  background-color: #eef;
+  border: 1px solid #d4ceb8;
+  background-color: #eee8d5;
   padding: 0 .2em;
 }
 
@@ -197,13 +197,13 @@ a:hover {
 
 /* terminal */
 .post pre.terminal {
-  border: 1px solid #000;
-  background-color: #333;
-  color: #FFF;
+  border: 1px solid #073642;
+  background-color: #002b36;
+  color: #839496;
 }
 
 .post pre.terminal code {
-  background-color: #333;
+  background-color: #002b36;
 }
 
 /*****************************************************************************/
@@ -226,7 +226,8 @@ a:hover {
   width: 14%;
   padding-left: 11em;
   padding-right: 2.125em;
-  border-right: 1px solid #e7e7e7;
+  border-right: 1px solid #d4ceb8;
+  background-color: #eee8d5;
 }
 
 .content {
@@ -250,7 +251,7 @@ a:hover {
 }
 
 .post-date {
-  color: #8a8a8a;
+  color: #93a1a1;
   font-family: Monaco, "Courier New", monospace;
   font-weight: 600;
   font-size: 0.65em;
@@ -264,7 +265,7 @@ a:hover {
   display: none;
   padding: 15px 5px 0px 0px;
   margin-bottom: 10px;
-  border-bottom: 1px solid #e7e7e7;
+  border-bottom: 1px solid #d4ceb8;
 }
 
 #sidebar-button:active,
@@ -281,11 +282,11 @@ a:hover {
 .colophon {
   margin-top: 1.5em;
   margin-bottom: 1.45em;
-  border-top: 1px dotted #e7e7e7;
+  border-top: 1px dotted #d4ceb8;
 }
 
 .colophon p {
   margin-top: 1.25em;
   font-size: 0.95em;
-  color: #777;
+  color: #93a1a1;
 }
