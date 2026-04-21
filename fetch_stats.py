@@ -20,7 +20,6 @@ ADS_TOKEN   = "7rbhCKGe8EGuSLM3XpV2RZ1v5RpjvnOqUgb13X7i"
 LIBRARY_ID  = "nThU2Yw3SUytqSYjksZ8uA"
 
 PAGES_TO_UPDATE = [
-    "_posts/2019-04-08-about.md",
     "_posts/2019-04-07-cv.md",
     "_posts/2019-04-06-Publications.md",
 ]

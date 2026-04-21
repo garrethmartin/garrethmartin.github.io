@@ -60,16 +60,7 @@ def main():
         name  = r["name"]
         desc  = r["description"] or ""
         url   = r["html_url"]
-        stars = r["stargazers_count"]
-        lang  = r["language"] or ""
-        parts = []
-        if desc:
-            parts.append(desc)
-        if lang:
-            parts.append(f"*{lang}*")
-        if stars:
-            parts.append(f"&#9733; {stars}")
-        detail = " &nbsp;&#9632;&nbsp; ".join(parts)
+        detail = desc
         lines.append(f"### [`{name}`]({url})")
         if detail:
             lines.append(detail)

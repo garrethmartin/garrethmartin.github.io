@@ -40,8 +40,9 @@ def format_paper(p):
     volume = p.volume or ""
     page   = p.page[0] if p.page else ""
     doi    = p.doi[0] if p.doi else ""
-    doi_str = f"https://doi.org/{doi}" if doi else ""
-    return f"{title}  \n{author_str}  \n{month}/{year} | {journal} {volume}, {page} | {doi_str}"
+    ref    = f"{journal} {volume}, {page}".strip()
+    ref_str = f"[{ref}](https://doi.org/{doi})" if doi else ref
+    return f"{title}  \n{author_str}  \n{month}/{year} | {ref_str}"
 
 
 def main():
