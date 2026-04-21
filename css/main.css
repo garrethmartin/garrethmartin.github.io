@@ -25,7 +25,7 @@ body {
 }
 
 a {
-  color: #268bd2;
+  color: #d33682;
   text-decoration: none;
   border: none;
 }
@@ -53,7 +53,7 @@ a:hover {
 }
 
 .posts a {
-  color: #586e75;
+  color: #d33682;
 }
 
 .posts a:hover {
@@ -159,7 +159,7 @@ a:hover {
 
 .post a,
 #about a {
-  border-bottom: 1px solid #2aa198;
+  border-bottom: 1px solid #d33682;
 }
 
 .post a:hover {
