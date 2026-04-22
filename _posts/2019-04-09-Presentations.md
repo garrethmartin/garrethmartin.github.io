@@ -8,20 +8,23 @@ categories: posts
 
 Over 40 conference talks and seminars, including 17 invited.
 
+### Intra-Cluster Light: Bridging the Gap Between Theory and Observations
+*Leiden, Nethernalds* UK* &nbsp;&#9632;&nbsp; April 2026 UK* &nbsp;&#9632;&nbsp; *Invited talk* ['slides'](/files/Garreth_Martin_Wed_1200_Leiden.pdf)
+
 ### University of Lancaster
-*Lancaster, UK* &nbsp;&#9632;&nbsp; February 2026 &nbsp;&#9632;&nbsp; *Invited seminar*
+*Lancaster, UK* &nbsp;&#9632;&nbsp; February 2026 &nbsp;&#9632;&nbsp; *Invited seminar* [`slides`](/files/Lancaster_seminar_23_02_26_compressed.pdf)
 
 ### Korea Astronomy and Space Science Institute Seminar
 *Daejeon, Republic of Korea* &nbsp;&#9632;&nbsp; October 2024 &nbsp;&#9632;&nbsp; *Invited talk*
 
 ### Galaxy Evolution Meeting
-*Seoul, Republic of Korea* &nbsp;&#9632;&nbsp; October 2024 &nbsp;&#9632;&nbsp; *Invited talk*
+*Seoul, Republic of Korea* &nbsp;&#9632;&nbsp; October 2024 &nbsp;&#9632;&nbsp; *Invited talk* [`slides`](/files/GM_GEM_group_talk.pdf)
 
 ### KIAS Survey Science Workshop
-*Jeongseon, Republic of Korea* &nbsp;&#9632;&nbsp; January 2023 &nbsp;&#9632;&nbsp; *Invited talk*
+*Jeongseon, Republic of Korea* &nbsp;&#9632;&nbsp; January 2023 &nbsp;&#9632;&nbsp; *Invited talk* [`slides`](/files/Garreth_Martin_Survey_Science.pdf)
 
 ### Steward Observatory Colloquium
-*Tucson, Arizona* &nbsp;&#9632;&nbsp; April 2023 &nbsp;&#9632;&nbsp; *Invited seminar*
+*Tucson, Arizona* &nbsp;&#9632;&nbsp; April 2023 &nbsp;&#9632;&nbsp; *Invited seminar* [`slides`](/files/Steward_Seminar.pdf)
 
 ### Yonsei Galaxy Evolution Meeting
 *Seoul, Republic of Korea* &nbsp;&#9632;&nbsp; March 2022 &nbsp;&#9632;&nbsp; *Invited talk*
@@ -33,7 +36,7 @@ Over 40 conference talks and seminars, including 17 invited.
 *Oxford, UK* &nbsp;&#9632;&nbsp; January 2022 &nbsp;&#9632;&nbsp; *Invited seminar*
 
 ### Clash of the Titans: the Enigmatic Role of Mergers in Galaxy Evolution
-*Online* &nbsp;&#9632;&nbsp; March 2021 &nbsp;&#9632;&nbsp; *Invited talk* &nbsp;&#9632;&nbsp; [`slides`](/files/Leiden_08_Mar_2021.pdf)
+*Leiden, Netherlands* &nbsp;&#9632;&nbsp; March 2021 &nbsp;&#9632;&nbsp; *Invited talk* &nbsp;&#9632;&nbsp; [`slides`](/files/Leiden_08_Mar_2021.pdf)
 
 ### The Low Surface Brightness Universe as Seen by LSST
 *Sexten Centre for Astrophysics, Italy* &nbsp;&#9632;&nbsp; February 2020 &nbsp;&#9632;&nbsp; *Invited talk* &nbsp;&#9632;&nbsp; [`slides`](/files/SextenCFA_04_Feb_2020.pdf)
