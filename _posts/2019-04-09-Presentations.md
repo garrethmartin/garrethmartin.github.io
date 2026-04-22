@@ -9,7 +9,7 @@ categories: posts
 Over 40 conference talks and seminars, including 17 invited.
 
 ### Intra-Cluster Light: Bridging the Gap Between Theory and Observations
-*Leiden, Nethernalds* UK* &nbsp;&#9632;&nbsp; April 2026 UK* &nbsp;&#9632;&nbsp; *Invited talk* ['slides'](/files/Garreth_Martin_Wed_1200_Leiden.pdf)
+*Leiden, Nethernalds* UK* &nbsp;&#9632;&nbsp; April 2026 UK* &nbsp;&#9632;&nbsp; *Invited talk* [`slides`](/files/Garreth_Martin_Wed_1200_Leiden.pdf)
 
 ### University of Lancaster
 *Lancaster, UK* &nbsp;&#9632;&nbsp; February 2026 &nbsp;&#9632;&nbsp; *Invited seminar* [`slides`](/files/Lancaster_seminar_23_02_26_compressed.pdf)
