@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Fetch citation statistics from ADS.
+"""Fetch citation statistics from ADS and Google Scholar cache.
 
 Usage:
     python fetch_stats.py                   # print stats
@@ -10,14 +10,16 @@ Dependencies:
 
 """
 
+import json
 import os
 import re
 import requests
 from datetime import date
 
 # ── Configuration ─────────────────────────────────────────────────────────────
-ADS_TOKEN   = "7rbhCKGe8EGuSLM3XpV2RZ1v5RpjvnOqUgb13X7i"
-LIBRARY_ID  = "nThU2Yw3SUytqSYjksZ8uA"
+ADS_TOKEN    = "7rbhCKGe8EGuSLM3XpV2RZ1v5RpjvnOqUgb13X7i"
+LIBRARY_ID   = "nThU2Yw3SUytqSYjksZ8uA"
+SCHOLAR_CACHE = os.path.join("/home/ppzgm/Code/CV_stuff", "scholar_cache.json")
 
 PAGES_TO_UPDATE = [
     "_posts/2019-04-07-cv.md",
@@ -57,15 +59,38 @@ def fetch_ads_metrics(bibcodes):
     }
 
 
-def build_stats_line(ads, month_year):
+def load_scholar_stats(path):
+    try:
+        with open(path) as f:
+            data = json.load(f)
+        return {
+            "citedby":  data.get("citedby", 0),
+            "hindex":   data.get("hindex", 0),
+            "i10index": data.get("i10index", 0),
+        }
+    except (OSError, json.JSONDecodeError) as e:
+        print(f"  WARNING: could not load scholar cache ({e}); using ADS stats only")
+        return None
+
+
+def build_stats_line(ads, scholar, month_year):
     papers = ads["refereed_papers"] or ads["total_papers"]
     sep    = " &nbsp;&#9632;&nbsp; "
-    parts  = [
-        f"{papers} peer-reviewed publications and preprints",
-        f"~{ads['total_citations']:,} citations (ADS)",
-        f"h-index {ads['h_index']} (ADS)",
-        month_year,
-    ]
+    if scholar:
+        parts = [
+            f"{papers} peer-reviewed publications and preprints",
+            f"{scholar['citedby']:,} citations (Scholar)",
+            f"h-index {scholar['hindex']} (Scholar)",
+            f"i10-index {scholar['i10index']} (Scholar)",
+            month_year,
+        ]
+    else:
+        parts = [
+            f"{papers} peer-reviewed publications and preprints",
+            f"~{ads['total_citations']:,} citations (ADS)",
+            f"h-index {ads['h_index']} (ADS)",
+            month_year,
+        ]
     return f"*{sep.join(parts)}*"
 
 
@@ -96,6 +121,9 @@ def main():
     print("Fetching ADS metrics…")
     ads = fetch_ads_metrics(bibcodes)
 
+    print("Loading Google Scholar cache…")
+    scholar = load_scholar_stats(SCHOLAR_CACHE)
+
     month_year = date.today().strftime("%B %Y")
 
     print("\n── ADS ──────────────────────────────────────")
@@ -105,7 +133,13 @@ def main():
     print(f"  Citations (ref'd):  {ads['refereed_citations']}")
     print(f"  h-index:            {ads['h_index']}")
 
-    stats_line = build_stats_line(ads, month_year)
+    if scholar:
+        print("\n── Scholar ──────────────────────────────────")
+        print(f"  Citations:          {scholar['citedby']}")
+        print(f"  h-index:            {scholar['hindex']}")
+        print(f"  i10-index:          {scholar['i10index']}")
+
+    stats_line = build_stats_line(ads, scholar, month_year)
     print(f"\nStats line:\n  {stats_line}")
 
     if update_pages:

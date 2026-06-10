@@ -23,6 +23,7 @@ def run(label, script, *args):
 
 
 def main():
+    run("Syncing CV PDFs", "sync_cv_files.py")
     run("Generating publications page", "generate_publist.py")
     run("Generating repositories page", "generate_repos.py")
     run("Fetching citation statistics", "fetch_stats.py", "--update-pages")
