@@ -30,30 +30,28 @@ def latex_to_utf8(text):
     return text
 
 
-def _norm_title(text):
-    t = text.lower()
-    t = t.replace("–", "-").replace("—", "-")
-    t = re.sub(r"\s+", " ", t).strip(" .")
-    t = t.replace("-", "")
-    return t
-
-
 def load_scholar_data(path):
     try:
         with open(path) as f:
             data = json.load(f)
     except (OSError, json.JSONDecodeError) as e:
         print(f"WARNING: could not load scholar cache ({e}); skipping Scholar stats")
-        return {}, {}
-    citations = {
-        _norm_title(p["title"]): p["num_citations"]
-        for p in data.get("publications", [])
-        if p.get("num_citations", 0) > 0
-    }
-    return data, citations
+        return {}
+    return data
 
 
-def format_paper(p, scholar_citations):
+def is_catalog(p):
+    doctype = (p.get("doctype") or "").lower()
+    journal = ((p.get("bibstem") or [""])[0] if p.get("bibstem") else (p.get("pub") or "")).lower()
+    title   = ((p.get("title") or [""])[0]).lower()
+    return (
+        doctype == "catalog"
+        or journal.startswith("ycat")
+        or "vizier online data catalog" in title
+    )
+
+
+def format_paper(p):
     raw_title = (p.get("title") or [""])[0]
     title     = f"*{latex_to_utf8(raw_title)}*"
     authors   = [latex_to_utf8(a) for a in (p.get("author") or [])]
@@ -71,19 +69,11 @@ def format_paper(p, scholar_citations):
     doi     = dois[0] if dois else ""
     ref     = f"{journal} {volume}, {page}".strip()
     ref_str = f"[{ref}](https://doi.org/{doi})" if doi else ref
-
-    cit_str = ""
-    if scholar_citations:
-        key = _norm_title(latex_to_utf8(raw_title))
-        n   = scholar_citations.get(key, 0)
-        if n:
-            cit_str = f" | {n:,} citations"
-
-    return f"{title}  \n{author_str}  \n{month}/{year} | {ref_str}{cit_str}"
+    return f"{title}  \n{author_str}  \n{month}/{year} | {ref_str}"
 
 
 def main():
-    scholar_data, scholar_citations = load_scholar_data(SCHOLAR_CACHE)
+    scholar_data = load_scholar_data(SCHOLAR_CACHE)
 
     lib_url  = f"https://api.adsabs.harvard.edu/v1/biblib/libraries/{LIBRARY_ID}"
     lib_resp = requests.get(lib_url, headers=HEADERS, params={"start": 0, "rows": 500})
@@ -92,27 +82,29 @@ def main():
     bibcodes = [d["bibcode"] for d in solr["docs"]]
     print(f"Library contains {solr['numFound']} docs, fetching {len(bibcodes)}.")
 
-    query        = " OR ".join(f"bibcode:{bc}" for bc in bibcodes)
-    search_resp  = requests.get(
+    query       = " OR ".join(f"bibcode:{bc}" for bc in bibcodes)
+    search_resp = requests.get(
         "https://api.adsabs.harvard.edu/v1/search/query",
         headers=HEADERS,
         params={
             "q":    query,
-            "fl":   "title,author,pubdate,year,pub,bibstem,volume,page,doi",
+            "fl":   "title,author,pubdate,year,pub,bibstem,volume,page,doi,doctype",
             "rows": len(bibcodes),
         },
     )
     search_resp.raise_for_status()
-    papers = search_resp.json()["response"]["docs"]
+    all_papers = search_resp.json()["response"]["docs"]
 
     first_author_papers = []
     all_by_year = defaultdict(list)
 
-    for p in papers:
+    for p in all_papers:
+        if is_catalog(p):
+            continue
         year  = p.get("year") or "0"
         date  = p.get("pubdate") or ""
         month = int(date.split("-")[1]) if date and "-" in date else 0
-        formatted = format_paper(p, scholar_citations)
+        formatted = format_paper(p)
         authors   = [latex_to_utf8(a) for a in (p.get("author") or [])]
         if authors and authors[0].startswith("Martin, G"):
             first_author_papers.append((year, month, formatted))
@@ -122,10 +114,12 @@ def main():
     for year in all_by_year:
         all_by_year[year].sort(key=lambda x: x[0], reverse=True)
 
+    n_papers = sum(len(v) for v in all_by_year.values())
+
     sep = " &nbsp;&#9632;&nbsp; "
     if scholar_data:
         stats_parts = [
-            f"{len(papers)} peer-reviewed publications and preprints",
+            f"{n_papers} peer-reviewed publications and preprints",
             f"{scholar_data['citedby']:,} citations (Scholar)",
             f"h-index {scholar_data['hindex']} (Scholar)",
             f"i10-index {scholar_data['i10index']} (Scholar)",
@@ -133,9 +127,9 @@ def main():
         ]
     else:
         stats_parts = [
-            f"{len(papers)} peer-reviewed publications and preprints",
-            "citations (ADS)",
-            "h-index (ADS)",
+            f"{n_papers} peer-reviewed publications and preprints",
+            "citations",
+            "h-index",
             __import__('datetime').date.today().strftime('%B %Y'),
         ]
     stats_line = f"*{sep.join(stats_parts)}*"
@@ -151,7 +145,6 @@ def main():
         "",
         "[`ADS Library`](https://ui.adsabs.harvard.edu/public-libraries/nThU2Yw3SUytqSYjksZ8uA \"ADS library\")"
         f"{sep}[`Google Scholar`](https://scholar.google.com/citations?user=4O8TNrgAAAAJ \"Google Scholar\")"
-        f"{sep}[`CV (PDF)`](/files/CV_Martin.pdf \"Curriculum vitae\")"
         f"{sep}[`Publication list (PDF)`](/files/publication_list.pdf \"Publication list\")",
         "",
         stats_line,
@@ -174,7 +167,7 @@ def main():
     with open(OUT_FILE, "w") as f:
         f.write("\n".join(lines))
 
-    print(f"Written to {OUT_FILE}")
+    print(f"Written to {OUT_FILE} ({n_papers} papers after filtering)")
 
 
 if __name__ == "__main__":
