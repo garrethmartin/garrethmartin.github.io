@@ -15,7 +15,7 @@ ADS_TOKEN    = "7rbhCKGe8EGuSLM3XpV2RZ1v5RpjvnOqUgb13X7i"
 LIBRARY_ID   = "nThU2Yw3SUytqSYjksZ8uA"
 OUT_FILE     = "_posts/2019-04-06-Publications.md"
 HEADERS      = {"Authorization": f"Bearer {ADS_TOKEN}"}
-SCHOLAR_CACHE = os.path.join("/home/ppzgm/Code/CV_stuff", "scholar_cache.json")
+SCHOLAR_CACHE = os.path.join(os.path.expanduser("~/Code/CV_stuff"), "scholar_cache.json")
 
 
 def latex_to_utf8(text):

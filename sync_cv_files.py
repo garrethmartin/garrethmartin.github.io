@@ -15,9 +15,10 @@ import subprocess
 import sys
 
 ROOT         = os.path.dirname(os.path.abspath(__file__))
-CV_STUFF_DIR = "/home/ppzgm/Code/CV_stuff"
+CV_STUFF_DIR = os.path.expanduser("~/Code/CV_stuff")
 ADS_TOKEN    = "7rbhCKGe8EGuSLM3XpV2RZ1v5RpjvnOqUgb13X7i"
 LIBRARY_ID   = "nThU2Yw3SUytqSYjksZ8uA"
+SCHOLAR_ID   = "4O8TNrgAAAAJ"
 FILES_DIR    = os.path.join(ROOT, "files")
 
 sys.path.insert(0, CV_STUFF_DIR)
@@ -94,9 +95,36 @@ STARRED_TITLES = {
 }
 
 
-def load_scholar_cache(path):
-    with open(path) as f:
-        data = json.load(f)
+def get_scholar_data(cache_path):
+    try:
+        from scholarly import scholarly as _scholarly
+        print("  Fetching from Google Scholar live…")
+        author = _scholarly.search_author_id(SCHOLAR_ID)
+        author = _scholarly.fill(author, sections=["basics", "indices", "publications"])
+        pubs = []
+        for pub in author.get("publications", []):
+            bib = pub.get("bib", {})
+            pubs.append({
+                "title":         bib.get("title", ""),
+                "year":          str(bib.get("pub_year", "")),
+                "num_citations": pub.get("num_citations", 0),
+            })
+        data = {
+            "fetched_at":     __import__("datetime").datetime.now().isoformat(),
+            "name":           author.get("name", ""),
+            "citedby":        author.get("citedby", 0),
+            "hindex":         author.get("hindex", 0),
+            "i10index":       author.get("i10index", 0),
+            "cites_per_year": author.get("cites_per_year", {}),
+            "publications":   pubs,
+        }
+        with open(cache_path, "w") as f:
+            json.dump(data, f, indent=2, ensure_ascii=False)
+        print(f"  Cache updated.")
+    except Exception as e:
+        print(f"  [ FALLBACK ] Scholar live fetch failed ({e}); reading cache")
+        with open(cache_path) as f:
+            data = json.load(f)
     citations = {}
     for pub in data.get("publications", []):
         k = normalize_title(pub.get("title", ""))
@@ -163,8 +191,8 @@ def copy_pdf(src_name, src_dir, dst_dir):
 def main():
     os.makedirs(FILES_DIR, exist_ok=True)
 
-    print("Loading Google Scholar cache…")
-    scholar_data, scholar_citations = load_scholar_cache(
+    print("Fetching Google Scholar data…")
+    scholar_data, scholar_citations = get_scholar_data(
         os.path.join(CV_STUFF_DIR, "scholar_cache.json")
     )
     CITATIONS = f"{scholar_data['citedby']:,}"

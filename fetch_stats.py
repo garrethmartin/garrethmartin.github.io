@@ -17,9 +17,10 @@ import requests
 from datetime import date
 
 # ── Configuration ─────────────────────────────────────────────────────────────
-ADS_TOKEN    = "7rbhCKGe8EGuSLM3XpV2RZ1v5RpjvnOqUgb13X7i"
-LIBRARY_ID   = "nThU2Yw3SUytqSYjksZ8uA"
-SCHOLAR_CACHE = os.path.join("/home/ppzgm/Code/CV_stuff", "scholar_cache.json")
+ADS_TOKEN     = "7rbhCKGe8EGuSLM3XpV2RZ1v5RpjvnOqUgb13X7i"
+LIBRARY_ID    = "nThU2Yw3SUytqSYjksZ8uA"
+SCHOLAR_ID    = "4O8TNrgAAAAJ"
+SCHOLAR_CACHE = os.path.join(os.path.expanduser("~/Code/CV_stuff"), "scholar_cache.json")
 
 PAGES_TO_UPDATE = [
     "_posts/2019-04-07-cv.md",
@@ -59,9 +60,31 @@ def fetch_ads_metrics(bibcodes):
     }
 
 
-def load_scholar_stats(path):
+def get_scholar_stats(cache_path):
     try:
-        with open(path) as f:
+        from scholarly import scholarly as _scholarly
+        print("  Fetching from Google Scholar live…")
+        author = _scholarly.search_author_id(SCHOLAR_ID)
+        author = _scholarly.fill(author, sections=["basics", "indices"])
+        stats = {
+            "citedby":  author.get("citedby", 0),
+            "hindex":   author.get("hindex", 0),
+            "i10index": author.get("i10index", 0),
+        }
+        try:
+            with open(cache_path) as f:
+                cached = json.load(f)
+        except (OSError, json.JSONDecodeError):
+            cached = {}
+        cached.update({**stats, "fetched_at": date.today().isoformat()})
+        with open(cache_path, "w") as f:
+            json.dump(cached, f, indent=2, ensure_ascii=False)
+        print(f"  Cache updated.")
+        return stats
+    except Exception as e:
+        print(f"  [ FALLBACK ] Scholar live fetch failed ({e}); reading cache")
+    try:
+        with open(cache_path) as f:
             data = json.load(f)
         return {
             "citedby":  data.get("citedby", 0),
@@ -69,7 +92,7 @@ def load_scholar_stats(path):
             "i10index": data.get("i10index", 0),
         }
     except (OSError, json.JSONDecodeError) as e:
-        print(f"  WARNING: could not load scholar cache ({e}); using ADS stats only")
+        print(f"  [ WARNING ] Cache also unavailable ({e}); using ADS stats only")
         return None
 
 
@@ -121,8 +144,8 @@ def main():
     print("Fetching ADS metrics…")
     ads = fetch_ads_metrics(bibcodes)
 
-    print("Loading Google Scholar cache…")
-    scholar = load_scholar_stats(SCHOLAR_CACHE)
+    print("Fetching Google Scholar stats…")
+    scholar = get_scholar_stats(SCHOLAR_CACHE)
 
     month_year = date.today().strftime("%B %Y")
 
