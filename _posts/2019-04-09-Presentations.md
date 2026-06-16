@@ -4,6 +4,7 @@ title: Presentations
 cover: HSC.png
 date:   2013-12-01 12:00:00
 categories: posts
+permalink: /presentations/
 ---
 
 Over 40 conference talks and seminars, including 17 invited.

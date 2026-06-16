@@ -3,6 +3,6 @@ layout: default
 title: Home
 ---
 
-{% assign page = site.posts.first %}
+{% assign page = site.posts | where_exp: "p", "p.hide_from_nav != true" | first %}
 {% assign content = page.content %}
 {% include post.html %}
