@@ -177,13 +177,14 @@ def docx_to_pdf_onlyoffice(docx_path):
     return pdf_path
 
 
-def copy_pdf(src_name, src_dir, dst_dir):
+def copy_pdf(src_name, src_dir, dst_dir, dst_name=None):
     src = os.path.join(src_dir, src_name)
-    dst = os.path.join(dst_dir, src_name)
+    dst_name = dst_name or src_name
+    dst = os.path.join(dst_dir, dst_name)
     if os.path.exists(src):
         shutil.copy2(src, dst)
         size_kb = os.path.getsize(dst) // 1024
-        print(f"  Copied {src_name} ({size_kb} KB) → files/")
+        print(f"  Copied {src_name} ({size_kb} KB) → files/{dst_name}")
     else:
         print(f"  WARNING: {src} not found; skipping")
 
@@ -240,7 +241,9 @@ def main():
 
     print("Copying PDFs to files/…")
     copy_pdf("publication_list.pdf", CV_STUFF_DIR, FILES_DIR)
-    copy_pdf("CV_Martin.pdf", CV_STUFF_DIR, FILES_DIR)
+    # website gets the redacted public CV (no DOB/phone/address), renamed to
+    # CV_Martin.pdf so the /cv/ page link keeps working
+    copy_pdf("CV_Martin_public.pdf", CV_STUFF_DIR, FILES_DIR, dst_name="CV_Martin.pdf")
 
     print("Done.")
 
