@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Publications
+icon: "📄"
 cover: NHz.png
 date:   2013-12-09 12:00:00
 categories: posts
