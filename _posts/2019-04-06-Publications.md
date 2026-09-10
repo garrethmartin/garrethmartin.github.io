@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Publications
-icon: "📄"
 cover: NHz.png
 date:   2013-12-09 12:00:00
 categories: posts
@@ -9,7 +8,7 @@ categories: posts
 
 [`ADS Library`](https://ui.adsabs.harvard.edu/public-libraries/nThU2Yw3SUytqSYjksZ8uA "ADS library") &nbsp;&#9632;&nbsp; [`Google Scholar`](https://scholar.google.com/citations?user=4O8TNrgAAAAJ "Google Scholar") &nbsp;&#9632;&nbsp; [`Publication list (PDF)`](/files/publication_list.pdf "Publication list")
 
-*78 peer-reviewed publications and preprints &nbsp;&#9632;&nbsp; 2,828 citations (Scholar) &nbsp;&#9632;&nbsp; h-index 27 (Scholar) &nbsp;&#9632;&nbsp; i10-index 52 (Scholar) &nbsp;&#9632;&nbsp; September 2026*
+*78 peer-reviewed publications and preprints &nbsp;&#9632;&nbsp; 2,852 citations (Scholar) &nbsp;&#9632;&nbsp; h-index 27 (Scholar) &nbsp;&#9632;&nbsp; i10-index 52 (Scholar) &nbsp;&#9632;&nbsp; September 2026*
 
 ## First-author publications
 
@@ -66,13 +65,13 @@ categories: posts
 
 ### 2026
 
->*A consistent comparison of intracluster light assembly in simulations I. Redshift evolution and progenitor galaxies*  
->Brown, Harley J., **Martin, Garreth**, Pearce, Frazer R., Bahé, Yannick M., Butler, Joseph, Cui, Weiguang, Hatch, Nina A., Knebe, Alexander  
->09/2026 | [MNRAS 551, stag1172](https://doi.org/10.1093/mnras/stag1172)
-
 >*Intracluster light and dark matter halo shapes reflect common assembly, not mutual coupling: shape correspondence in CDM but not SIDM*  
 >**Martin, G.**, Hatch, N. A., Cui, W., Fernandez, A., Bahé, Y. M., Fischer, M. S., Montes, M., Pearce, F. R., Sabiu, C. G., Yepes, G., Yoo, J.  
 >09/2026 | [MNRAS 551, stag1423](https://doi.org/10.1093/mnras/stag1423)
+
+>*A consistent comparison of intracluster light assembly in simulations I. Redshift evolution and progenitor galaxies*  
+>Brown, Harley J., **Martin, Garreth**, Pearce, Frazer R., Bahé, Yannick M., Butler, Joseph, Cui, Weiguang, Hatch, Nina A., Knebe, Alexander  
+>09/2026 | [MNRAS 551, stag1172](https://doi.org/10.1093/mnras/stag1172)
 
 >*Global trends in morphology from massive to dwarf galaxies*  
 >Lazar, I., Kaviraj, S., Conselice, C. J., Westcott, L., Watkins, A. E., Koudmani, S., **Martin, G.**, Sedgwick, T. M., Kakkad, D., Bichang'a, B.  
@@ -94,6 +93,10 @@ categories: posts
 >Sazonova, Elizaveta, Morgan, Cameron R., Balogh, Michael, Blaña, Matías, Bornancini, Carlos G., Cotter, Aidan P., Donevski, Darko, Graham, Alister W., Toledo, Hector M. Hernandez, Holwerda, Benne W., Kartaltepe, Jeyhan S., **Martin, Garreth**, Pearson, William J., Ragusa, Rossella, Rodriguez-Gomez, Vicente, Rutkowski, Michael J., Vázquez-Mata, Jose Antonio, Windhorst, Rogier A., Yuzovitskiy, Jacob  
 >04/2026 | [OJAp 9, 60562](https://doi.org/10.33232/001c.160562)
 
+>*The major merger─active galactic nucleus connection up to cosmic noon*  
+>La Marca, A., Margalef-Bentabol, B., Wang, L., Trager, S. C., Rodriguez-Gomez, V., **Martin, G.**  
+>04/2026 | [A&A 708, A373](https://doi.org/10.1051/0004-6361/202555185)
+
 >*Downsizing does not extend to dwarf galaxies: identifying the stellar mass regimes shaped by supernova and AGN feedback*  
 >Lazar, I., Kaviraj, S., **Martin, G.**, Conselice, C. J., Koudmani, S., Watkins, A. E., Yi, S. K., Kakkad, D., Sedgwick, T. M., Dubois, Y., Devriendt, J. E. G., Kraljic, K., Peirani, S.  
 >04/2026 | [MNRAS 547, stag207](https://doi.org/10.1093/mnras/stag207)
@@ -102,17 +105,13 @@ categories: posts
 >Bichang'a, B., De Cicco, D., Kaviraj, S., Lazar, I., Watkins, A. E., **Martin, G.**, Kakkad, D.  
 >04/2026 | [MNRAS 547, stag287](https://doi.org/10.1093/mnras/stag287)
 
->*The major merger─active galactic nucleus connection up to cosmic noon*  
->La Marca, A., Margalef-Bentabol, B., Wang, L., Trager, S. C., Rodriguez-Gomez, V., **Martin, G.**  
->04/2026 | [A&A 708, A373](https://doi.org/10.1051/0004-6361/202555185)
+>*Isophote shape analysis and the unfortunate subtlety of dwarf galaxy structure*  
+>Watkins, A. E., Lazar, I., Sedgwick, T., **Martin, G.**, Kaviraj, S., Kakkad, D., Collins, C., Bichang'a, B.  
+>04/2026 | [MNRAS 547, stag472](https://doi.org/10.1093/mnras/stag472)
 
 >*Multiwavelength morphology and dust emission in low-redshift dwarf galaxies in COSMOS-Web with HST and JWST*  
 >Kakkad, D., Lazar, I., Harish, S., Bichang'a, B., Cochrane, R. K., Kaviraj, S., Watkins, A. E., **Martin, G.**, Koudmani, S., Battisti, Andrew J., Casey, Caitlin, Franco, Maximilien, Gozaliasl, G., Hirschmann, M., Kartaltepe, Jeyhan, Khostovan, A. A., Koekemoer, Anton, Liu, Daizhong, McCracken, Henry Joy, Rhodes, Jason, Robertson, Brant  
 >04/2026 | [MNRAS 547, stag267](https://doi.org/10.1093/mnras/stag267)
-
->*Isophote shape analysis and the unfortunate subtlety of dwarf galaxy structure*  
->Watkins, A. E., Lazar, I., Sedgwick, T., **Martin, G.**, Kaviraj, S., Kakkad, D., Collins, C., Bichang'a, B.  
->04/2026 | [MNRAS 547, stag472](https://doi.org/10.1093/mnras/stag472)
 
 >*LIGHTS. The Thin Encircling Stellar Stream of NGC 3938*  
 >Zaritsky, Dennis, Nibauer, Jacob, Golini, Giulia, Ruiz Cejudo, Ignacio, Trujillo, Ignacio, Pearson, Sarah, Chamba, Nushkia, Chuang, Chen-Yu, D'Onofrio, Mauro, Eskandarlou, Sepideh, Guerra Arencibia, Sergio, Hosseini-ShahiSavandi, S. Zahra, Kaboud, Ouldouz, Le, Minh Ngoc, **Martin, Garreth**, Montes, Mireia, Raji, Samane, Román, Javier, Sedighi, Nafise, Sharbaf, Zahra  
@@ -164,17 +163,17 @@ categories: posts
 >**Martin, G.**, Watkins, A. E., Dubois, Y., Devriendt, J., Kaviraj, S., Kim, D., Kraljic, K., Lazar, I., Pearce, F. R., Peirani, S., Pichon, C., Slyz, A., Yi, S. K.  
 >08/2025 | [MNRAS 541, 1831](https://doi.org/10.1093/mnras/staf1092)
 
->*The diversity of rotation curves of galaxies in the NEWHORIZON cosmological simulation*  
->Jackson, R. A., Navarro, J. F., Santos-Santos, I. M. E., Kaviraj, S., Yi, S. K., Peirani, S., Dubois, Y., **Martin, G.**, Devriendt, J. E. G., Slyz, A., Pichon, C., Volonteri, M., Kimm, T., Kraljic, K.  
->06/2025 | [MNRAS 539, 3797](https://doi.org/10.1093/mnras/staf667)
+>*Nearby dwarf galaxies with extreme star formation rates: a window into dwarf─galaxy evolution in the early Universe*  
+>Kaviraj, S., Bichang'a, B., Lazar, I., Watkins, A. E., **Martin, G.**, Jackson, R. A.  
+>06/2025 | [MNRAS 540, 594](https://doi.org/10.1093/mnras/staf716)
 
 >*LIGHTS. The extended point spread functions of the LIGHTS survey at the LBT*  
 >Sedighi, Nafise, Sharbaf, Zahra, Trujillo, Ignacio, Eskandarlou, Sepideh, Golini, Giulia, Infante-Sainz, Raúl, Raji, Samane, Zaritsky, Dennis, Ardakani, Pedram Ashofteh, Chamba, Nushkia, Hosseini-ShahiSavandi, S. Zahra, Donnerstein, Richard, D'Onofrio, Mauro, **Martin, Garreth**, Montes, Mireia, Román, Javier  
 >06/2025 | [OJAp 8, 73](https://doi.org/10.33232/001c.140865)
 
->*Nearby dwarf galaxies with extreme star formation rates: a window into dwarf─galaxy evolution in the early Universe*  
->Kaviraj, S., Bichang'a, B., Lazar, I., Watkins, A. E., **Martin, G.**, Jackson, R. A.  
->06/2025 | [MNRAS 540, 594](https://doi.org/10.1093/mnras/staf716)
+>*The diversity of rotation curves of galaxies in the NEWHORIZON cosmological simulation*  
+>Jackson, R. A., Navarro, J. F., Santos-Santos, I. M. E., Kaviraj, S., Yi, S. K., Peirani, S., Dubois, Y., **Martin, G.**, Devriendt, J. E. G., Slyz, A., Pichon, C., Volonteri, M., Kimm, T., Kraljic, K.  
+>06/2025 | [MNRAS 539, 3797](https://doi.org/10.1093/mnras/staf667)
 
 >*Morphological Feature Distances among the Spectral Types of SDSS Galaxies*  
 >Kim, Duho, **Martin, Garreth**  
@@ -222,37 +221,41 @@ categories: posts
 >Mehta, Vihang, Rafelski, Marc, Sunnquist, Ben, Teplitz, Harry I., Scarlata, Claudia, Wang, Xin, Fontana, Adriano, Hathi, Nimish P., Iyer, Kartheik G., Alavi, Anahita, Colbert, James, Grogin, Norman, Koekemoer, Anton, Nedkova, Kalina V., Hayes, Matthew, Prichard, Laura, Siana, Brian, Smith, Brent M., Windhorst, Rogier, Ashcraft, Teresa, Bagley, Micaela, Baronchelli, Ivano, Barro, Guillermo, Blanche, Alex, Broussard, Adam, Carleton, Timothy, Chartab, Nima, Codoreanu, Alex, Cohen, Seth, Conselice, Christopher, Dai, Y. Sophia, Darvish, Behnam, Davé, Romeel, Degroot, Laura, de Mello, Duilia, Dickinson, Mark, Emami, Najmeh, Ferguson, Henry, Ferreira, Leonardo, Finkelstein, Keely, Finkelstein, Steven, Gardner, Jonathan P., Gawiser, Eric, Gburek, Timothy, Giavalisco, Mauro, Grazian, Andrea, Gronwall, Caryl, Guo, Yicheng, Arrabal Haro, Pablo, Hemmati, Shoubaneh, Howell, Justin, Jansen, Rolf A., Ji, Zhiyuan, Kaviraj, Sugata, Kim, Keunho J., Kurczynski, Peter, Lazar, Ilin, Lucas, Ray A., MacKenty, John, Mantha, Kameswara Bharadwaj, Martin, Alec, **Martin, Garreth**, McCabe, Tyler, Mobasher, Bahram, Morales, Alexa M., O'Connell, Robert, Olsen, Charlotte, Otteson, Lillian, Ravindranath, Swara, Redshaw, Caleb, Rutkowski, Michael, Robertson, Brant, Sattari, Zahra, Soto, Emmaris, Sun, Lei, Taamoli, Sina, Vanzella, Eros, Yung, L. Y. Aaron, Zabelle, Bonnabelle, UVCANDELS Team  
 >11/2024 | [ApJS 275, 17](https://doi.org/10.3847/1538-4365/ad7d8f)
 
->*The structural properties of nearby dwarf galaxies in low-density environments - size, surface brightness, and colour gradients*  
->Lazar, I., Kaviraj, S., Watkins, A. E., **Martin, G.**, Bichang'a, B., Jackson, R. A.  
->10/2024 | [MNRAS 533, 3771](https://doi.org/10.1093/mnras/stae1956)
+>*Assembly of the intracluster light in the HORIZON-AGN simulation*  
+>Brown, Harley J., **Martin, Garreth**, Pearce, Frazer R., Hatch, Nina A., Bahé, Yannick M., Dubois, Yohan  
+>10/2024 | [MNRAS 534, 431](https://doi.org/10.1093/mnras/stae2084)
 
 >*Dust and power: Unravelling the merger-active galactic nucleus connection in the second half of cosmic history*  
 >La Marca, A., Margalef-Bentabol, B., Wang, L., Gao, F., Goulding, A. D., **Martin, G.**, Rodriguez-Gomez, V., Trager, S. C., Yang, G., Davé, R., Dubois, Y.  
 >10/2024 | [A&A 690, A326](https://doi.org/10.1051/0004-6361/202348188)
 
->*Assembly of the intracluster light in the HORIZON-AGN simulation*  
->Brown, Harley J., **Martin, Garreth**, Pearce, Frazer R., Hatch, Nina A., Bahé, Yannick M., Dubois, Yohan  
->10/2024 | [MNRAS 534, 431](https://doi.org/10.1093/mnras/stae2084)
-
->*The Ultraviolet Luminosity Function at 0.6 &lt; z &lt; 1 from UVCANDELS*  
->Sun, Lei, Wang, Xin, Teplitz, Harry I., Mehta, Vihang, Alavi, Anahita, Rafelski, Marc, Windhorst, Rogier A., Scarlata, Claudia, Gardner, Jonathan P., Smith, Brent M., Sunnquist, Ben, Prichard, Laura, Cheng, Yingjie, Grogin, Norman, Hathi, Nimish P., Hayes, Matthew, Koekemoer, Anton M., Mobasher, Bahram, Nedkova, Kalina V., O'Connell, Robert, Robertson, Brant, Taamoli, Sina, Yung, L. Y. Aaron, Brammer, Gabriel, Colbert, James, Conselice, Christopher, Gawiser, Eric, Guo, Yicheng, Jansen, Rolf A., Ji, Zhiyuan, Lucas, Ray A., Rutkowski, Michael, Siana, Brian, Vanzella, Eros, Ashcraft, Teresa, Bagley, Micaela, Baronchelli, Ivano, Barro, Guillermo, Blanche, Alex, Broussard, Adam, Carleton, Timothy, Chartab, Nima, Codoreanu, Alex, Cohen, Seth, Dai, Y. Sophia, Darvish, Behnam, Davé, Romeel, Degroot, Laura, de Mello, Duilia, Dickinson, Mark, Emami, Najmeh, Ferguson, Henry, Ferreira, Leonardo, Finkelstein, Keely, Finkelstein, Steven, Gburek, Timothy, Giavalisco, Mauro, Grazian, Andrea, Gronwall, Caryl, Hemmati, Shoubaneh, Howell, Justin, Iyer, Kartheik, Kaviraj, Sugata, Kurczynski, Peter, Lazar, Ilin, MacKenty, John, Mantha, Kameswara Bharadwaj, Martin, Alec, **Martin, Garreth**, McCabe, Tyler, Olsen, Charlotte, Otteson, Lillian, Ravindranath, Swara, Redshaw, Caleb, Sattari, Zahra, Soto, Emmaris, Zabelle, Bonnabelle, The Uvcandels Team  
->09/2024 | [ApJ 972, 8](https://doi.org/10.3847/1538-4357/ad5540)
+>*The structural properties of nearby dwarf galaxies in low-density environments - size, surface brightness, and colour gradients*  
+>Lazar, I., Kaviraj, S., Watkins, A. E., **Martin, G.**, Bichang'a, B., Jackson, R. A.  
+>10/2024 | [MNRAS 533, 3771](https://doi.org/10.1093/mnras/stae1956)
 
 >*RMS asymmetry: a robust metric of galaxy shapes in images with varied depth and resolution*  
 >Sazonova, Elizaveta, Morgan, Cameron, Balogh, Michael, Alatalo, Katherine, Benavides, Jose A., Bluck, Asa, Brough, Sarah, Busa, Innocenza, Demarco, Ricardo, Donevski, Darko, Figueira, Miguel, **Martin, Garreth**, Mullaney, James R., Rodriguez-Gomez, Vicente, Román, Javier, Rowlands, Kate  
 >09/2024 | [OJAp 7, 77](https://doi.org/10.33232/001c.123524)
 
+>*The Ultraviolet Luminosity Function at 0.6 &lt; z &lt; 1 from UVCANDELS*  
+>Sun, Lei, Wang, Xin, Teplitz, Harry I., Mehta, Vihang, Alavi, Anahita, Rafelski, Marc, Windhorst, Rogier A., Scarlata, Claudia, Gardner, Jonathan P., Smith, Brent M., Sunnquist, Ben, Prichard, Laura, Cheng, Yingjie, Grogin, Norman, Hathi, Nimish P., Hayes, Matthew, Koekemoer, Anton M., Mobasher, Bahram, Nedkova, Kalina V., O'Connell, Robert, Robertson, Brant, Taamoli, Sina, Yung, L. Y. Aaron, Brammer, Gabriel, Colbert, James, Conselice, Christopher, Gawiser, Eric, Guo, Yicheng, Jansen, Rolf A., Ji, Zhiyuan, Lucas, Ray A., Rutkowski, Michael, Siana, Brian, Vanzella, Eros, Ashcraft, Teresa, Bagley, Micaela, Baronchelli, Ivano, Barro, Guillermo, Blanche, Alex, Broussard, Adam, Carleton, Timothy, Chartab, Nima, Codoreanu, Alex, Cohen, Seth, Dai, Y. Sophia, Darvish, Behnam, Davé, Romeel, Degroot, Laura, de Mello, Duilia, Dickinson, Mark, Emami, Najmeh, Ferguson, Henry, Ferreira, Leonardo, Finkelstein, Keely, Finkelstein, Steven, Gburek, Timothy, Giavalisco, Mauro, Grazian, Andrea, Gronwall, Caryl, Hemmati, Shoubaneh, Howell, Justin, Iyer, Kartheik, Kaviraj, Sugata, Kurczynski, Peter, Lazar, Ilin, MacKenty, John, Mantha, Kameswara Bharadwaj, Martin, Alec, **Martin, Garreth**, McCabe, Tyler, Olsen, Charlotte, Otteson, Lillian, Ravindranath, Swara, Redshaw, Caleb, Sattari, Zahra, Soto, Emmaris, Zabelle, Bonnabelle, The Uvcandels Team  
+>09/2024 | [ApJ 972, 8](https://doi.org/10.3847/1538-4357/ad5540)
+
 >*LIGHTS. Survey Overview and a Search for Low Surface Brightness Satellite Galaxies*  
 >Zaritsky, Dennis, Golini, Giulia, Donnerstein, Richard, Trujillo, Ignacio, Akhlaghi, Mohammad, Chamba, Nushkia, D'Onofrio, Mauro, Eskandarlou, Sepideh, Hosseini-ShahiSavandi, S. Zahra, Infante-Sainz, Raúl, **Martin, Garreth**, Montes, Mireia, Román, Javier, Sedighi, Nafise, Sharbaf, Zahra  
 >08/2024 | [AJ 168, 69](https://doi.org/10.3847/1538-3881/ad543f)
+
+>*The properties of AGN in dwarf galaxies identified via SED fitting*  
+>Bichang'a, B., Kaviraj, S., Lazar, I., Jackson, R. A., Das, S., Smith, D. J. B., Watkins, A. E., **Martin, G.**  
+>07/2024 | [MNRAS 532, 613](https://doi.org/10.1093/mnras/stae1441)
 
 >*Galaxy merger challenge: A comparison study between machine learning-based detection methods*  
 >Margalef-Bentabol, B., Wang, L., La Marca, A., Blanco-Prieto, C., Chudy, D., Domínguez-Sánchez, H., Goulding, A. D., Guzmán-Ortega, A., Huertas-Company, M., **Martin, G.**, Pearson, W. J., Rodriguez-Gomez, V., Walmsley, M., Bickley, R. W., Bottrell, C., Conselice, C., O'Ryan, D.  
 >07/2024 | [A&A 687, A24](https://doi.org/10.1051/0004-6361/202348239)
 
->*The properties of AGN in dwarf galaxies identified via SED fitting*  
->Bichang'a, B., Kaviraj, S., Lazar, I., Jackson, R. A., Das, S., Smith, D. J. B., Watkins, A. E., **Martin, G.**  
->07/2024 | [MNRAS 532, 613](https://doi.org/10.1093/mnras/stae1441)
+>*A new era in galaxy edge characterisation with ultra-deep imaging*  
+>Golini, Giulia, Trujillo, Ignacio, Zaritsky, Dennis, Donnerstein, Richard, Akhlaghi, Mohammad, Chamba, Nushkia, D'onofrio, Mauro, Eskandarlou, Sepideh, Hosseini-ShahiSavandi, S. Zahra, Infante-Sainz, Raul, **Martin, Garreth**, Montes, Mireia, Román, Javier, Sedighi, Nafise, Sharbaf, Zahra, Raji, Samane  
+>07/2024 | eas , 455
 
 >*At the edge of source confusion in optical astronomy with new ultra-deep imaging surveys*  
 >Hosseini Shahisavandi, Seyedeh Zahra, Trujillo, Ignacio, Akhlaghi, Mohammad, Eskandarlou, Sepideh, Raji, Samane, Golini, Giulia, Sedighi, Nafise, D'Onofrio, Mauro, Zaritsky, Dennis, Sharbaf, Zahra, Montes, Mireia, Chamba, Nushkia, Donnerstein, Richard, Infante-Sainz, Raúl, **Martin, Garreth**, Román, Javier  
@@ -261,10 +264,6 @@ categories: posts
 >*The spin magnitudes and alignments of merger-free SMBHs*  
 >Smethurst, Rebecca, Beckmann, Ricarda, Simmons, Brooke, Coil, Alison, Dubois, Yohan, Garland, Izzy, Lintott, Chris, **Martin, Garreth**, Peirani, Sebastian, Pichon, Christophe  
 >07/2024 | eas , 241
-
->*A new era in galaxy edge characterisation with ultra-deep imaging*  
->Golini, Giulia, Trujillo, Ignacio, Zaritsky, Dennis, Donnerstein, Richard, Akhlaghi, Mohammad, Chamba, Nushkia, D'onofrio, Mauro, Eskandarlou, Sepideh, Hosseini-ShahiSavandi, S. Zahra, Infante-Sainz, Raul, **Martin, Garreth**, Montes, Mireia, Román, Javier, Sedighi, Nafise, Sharbaf, Zahra, Raji, Samane  
->07/2024 | eas , 455
 
 >*Star formation at the edge of galaxies*  
 >Kaboud, Ouldouz, Hosseini-Shahisavandi, S. Zahra, Trujillo, Ignacio, Akhlaghi, Mohammad, Golini, Giulia, D'onofrio, Mauro, Zaritsky, Dennis, Chamba, Nushkia, Donnerstein, Richard, Eskandarlou, Sepideh, Infante-Sainz, Raúl, **Martin, Garreth**, Montes, Mireia, Román, Javier, Sedighi, Nafise, Sharbaf, Zahra  
@@ -290,13 +289,13 @@ categories: posts
 >Smethurst, R. J., Beckmann, R. S., Simmons, B. D., Coil, A., Devriendt, J., Dubois, Y., Garland, I. L., Lintott, C. J., **Martin, G.**, Peirani, S.  
 >02/2024 | [MNRAS 527, 10855](https://doi.org/10.1093/mnras/stad1794)
 
->*Supermassive black holes in merger-free galaxies have higher spins which are preferentially aligned with their host galaxy*  
->Beckmann, R. S., Smethurst, R. J., Simmons, B. D., Coil, A., Dubois, Y., Garland, I. L., Lintott, C. J., **Martin, G.**, Peirani, S., Pichon, C.  
->02/2024 | [MNRAS 527, 10867](https://doi.org/10.1093/mnras/stad1795)
-
 >*Emergence and cosmic evolution of the Kennicutt-Schmidt relation driven by interstellar turbulence*  
 >Kraljic, Katarina, Renaud, Florent, Dubois, Yohan, Pichon, Christophe, Agertz, Oscar, Andersson, Eric, Devriendt, Julien, Freundlich, Jonathan, Kaviraj, Sugata, Kimm, Taysun, **Martin, Garreth**, Peirani, Sébastien, Segovia Otero, Álvaro, Volonteri, Marta, Yi, Sukyoung K.  
 >02/2024 | [A&A 682, A50](https://doi.org/10.1051/0004-6361/202347917)
+
+>*Supermassive black holes in merger-free galaxies have higher spins which are preferentially aligned with their host galaxy*  
+>Beckmann, R. S., Smethurst, R. J., Simmons, B. D., Coil, A., Dubois, Y., Garland, I. L., Lintott, C. J., **Martin, G.**, Peirani, S., Pichon, C.  
+>02/2024 | [MNRAS 527, 10867](https://doi.org/10.1093/mnras/stad1795)
 
 >*The formation of cores in galaxies across cosmic time - the existence of cores is not in tension with the ΛCDM paradigm*  
 >Jackson, R. A., Kaviraj, S., Yi, S. K., Peirani, S., Dubois, Y., **Martin, G.**, Devriendt, J. E. G., Slyz, A., Pichon, C., Volonteri, M., Kimm, T., Kraljic, K.  
