@@ -21,7 +21,7 @@ SCHOLAR_CACHE = os.path.join(os.path.expanduser("~/Code/CV_stuff"), "scholar_cac
 # ADS records still carry authors' former names; override the display form here
 # without touching the underlying ADS query (author search strings stay as-is).
 AUTHOR_NAME_OVERRIDES = {
-    "butler, j": "Butler, Madeline",
+    "butler, j": "Butler, M.",
     "butler, joseph": "Butler, Madeline",
 }
 

@@ -17,7 +17,7 @@ categories: posts
 09/2026 | [MNRAS 551, stag1423](https://doi.org/10.1093/mnras/stag1423)
 
 *Intracluster light as a dark matter tracer: how their spatial and kinematic relationship is shaped by satellite demographics*  
-**Martin, G.**, Pearce, F. R., Hatch, N. A., Brown, H. J., Butler, Madeline, Bahé, Y. M., Cui, W., Dubois, Y., Knebe, A.  
+**Martin, G.**, Pearce, F. R., Hatch, N. A., Brown, H. J., Butler, M., Bahé, Y. M., Cui, W., Dubois, Y., Knebe, A.  
 06/2026 | [MNRAS 548, stag649](https://doi.org/10.1093/mnras/stag649)
 
 *Cosmic reflections I: the structural diversity of simulated and observed low-mass galaxy analogues*  
@@ -82,7 +82,7 @@ categories: posts
 >08/2026 | [MNRAS 550, stag1186](https://doi.org/10.1093/mnras/stag1186)
 
 >*Intracluster light as a dark matter tracer: how their spatial and kinematic relationship is shaped by satellite demographics*  
->**Martin, G.**, Pearce, F. R., Hatch, N. A., Brown, H. J., Butler, Madeline, Bahé, Y. M., Cui, W., Dubois, Y., Knebe, A.  
+>**Martin, G.**, Pearce, F. R., Hatch, N. A., Brown, H. J., Butler, M., Bahé, Y. M., Cui, W., Dubois, Y., Knebe, A.  
 >06/2026 | [MNRAS 548, stag649](https://doi.org/10.1093/mnras/stag649)
 
 >*Intracluster light is a close tracer of the dark matter halo shape*  
@@ -180,7 +180,7 @@ categories: posts
 >06/2025 | [ApJ 986, 45](https://doi.org/10.3847/1538-4357/add152)
 
 >*Intracluster light is a biased tracer of the dark matter distribution in clusters*  
->Butler, Madeline, **Martin, G.**, Hatch, N. A., Pearce, F., Brough, S., Dubois, Y.  
+>Butler, M., **Martin, G.**, Hatch, N. A., Pearce, F., Brough, S., Dubois, Y.  
 >05/2025 | [MNRAS 539, 2279](https://doi.org/10.1093/mnras/staf615)
 
 >*UV LIGHTS: New tools for revealing the low surface brightness regime in the ultraviolet*  
