@@ -50,6 +50,7 @@ def main():
         "cover: HzWeb.png",
         "date:   2013-12-04 12:00:00",
         "categories: posts",
+        'icon: "💻"',
         "---",
         "",
         f"Public repositories on [`GitHub`](https://github.com/{GITHUB_USER}) — excluding forks.",

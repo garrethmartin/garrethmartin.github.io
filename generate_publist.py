@@ -154,6 +154,7 @@ def main():
         "cover: NHz.png",
         "date:   2013-12-09 12:00:00",
         "categories: posts",
+        'icon: "📄"',
         "---",
         "",
         "[`ADS Library`](https://ui.adsabs.harvard.edu/public-libraries/nThU2Yw3SUytqSYjksZ8uA \"ADS library\")"
