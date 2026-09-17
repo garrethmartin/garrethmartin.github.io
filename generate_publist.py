@@ -18,6 +18,19 @@ HEADERS      = {"Authorization": f"Bearer {ADS_TOKEN}"}
 SCHOLAR_CACHE = os.path.join(os.path.expanduser("~/Code/CV_stuff"), "scholar_cache.json")
 
 
+# ADS records still carry authors' former names; override the display form here
+# without touching the underlying ADS query (author search strings stay as-is).
+AUTHOR_NAME_OVERRIDES = {
+    "butler, j": "Butler, Madeline",
+    "butler, joseph": "Butler, Madeline",
+}
+
+
+def apply_author_override(name):
+    key = name.strip().lower().rstrip(".")
+    return AUTHOR_NAME_OVERRIDES.get(key, name)
+
+
 def latex_to_utf8(text):
     replacements = {
         r"\'a": "á", r'\"a': "ä", r"\'e": "é", r'\"e': "ë",
@@ -54,7 +67,7 @@ def is_catalog(p):
 def format_paper(p):
     raw_title = (p.get("title") or [""])[0]
     title     = f"*{latex_to_utf8(raw_title)}*"
-    authors   = [latex_to_utf8(a) for a in (p.get("author") or [])]
+    authors   = [apply_author_override(latex_to_utf8(a)) for a in (p.get("author") or [])]
     authors   = [f"**{a}**" if "Martin, G" in a else a for a in authors]
     author_str = ", ".join(authors)
     year    = p.get("year") or "n.d."

@@ -17,7 +17,7 @@ categories: posts
 09/2026 | [MNRAS 551, stag1423](https://doi.org/10.1093/mnras/stag1423)
 
 *Intracluster light as a dark matter tracer: how their spatial and kinematic relationship is shaped by satellite demographics*  
-**Martin, G.**, Pearce, F. R., Hatch, N. A., Brown, H. J., Butler, J., Bahé, Y. M., Cui, W., Dubois, Y., Knebe, A.  
+**Martin, G.**, Pearce, F. R., Hatch, N. A., Brown, H. J., Butler, Madeline, Bahé, Y. M., Cui, W., Dubois, Y., Knebe, A.  
 06/2026 | [MNRAS 548, stag649](https://doi.org/10.1093/mnras/stag649)
 
 *Cosmic reflections I: the structural diversity of simulated and observed low-mass galaxy analogues*  
@@ -70,7 +70,7 @@ categories: posts
 >10/2026 | [MNRAS 551, stag1532](https://doi.org/10.1093/mnras/stag1532)
 
 >*A consistent comparison of intracluster light assembly in simulations I. Redshift evolution and progenitor galaxies*  
->Brown, Harley J., **Martin, Garreth**, Pearce, Frazer R., Bahé, Yannick M., Butler, Joseph, Cui, Weiguang, Hatch, Nina A., Knebe, Alexander  
+>Brown, Harley J., **Martin, Garreth**, Pearce, Frazer R., Bahé, Yannick M., Butler, Madeline, Cui, Weiguang, Hatch, Nina A., Knebe, Alexander  
 >09/2026 | [MNRAS 551, stag1172](https://doi.org/10.1093/mnras/stag1172)
 
 >*Intracluster light and dark matter halo shapes reflect common assembly, not mutual coupling: shape correspondence in CDM but not SIDM*  
@@ -82,11 +82,11 @@ categories: posts
 >08/2026 | [MNRAS 550, stag1186](https://doi.org/10.1093/mnras/stag1186)
 
 >*Intracluster light as a dark matter tracer: how their spatial and kinematic relationship is shaped by satellite demographics*  
->**Martin, G.**, Pearce, F. R., Hatch, N. A., Brown, H. J., Butler, J., Bahé, Y. M., Cui, W., Dubois, Y., Knebe, A.  
+>**Martin, G.**, Pearce, F. R., Hatch, N. A., Brown, H. J., Butler, Madeline, Bahé, Y. M., Cui, W., Dubois, Y., Knebe, A.  
 >06/2026 | [MNRAS 548, stag649](https://doi.org/10.1093/mnras/stag649)
 
 >*Intracluster light is a close tracer of the dark matter halo shape*  
->Fernandez, Adela, Bahé, Yannick M., Hatch, Nina A., Butler, Joseph, Kolcu, Tutku, **Martin, Garreth**, Montes, Mireia  
+>Fernandez, Adela, Bahé, Yannick M., Hatch, Nina A., Butler, Madeline, Kolcu, Tutku, **Martin, Garreth**, Montes, Mireia  
 >05/2026 | [MNRAS 548, stag590](https://doi.org/10.1093/mnras/stag590)
 
 >*statmorph-lsst: Quantifying and correcting morphological biases in galaxy surveys*  
@@ -180,7 +180,7 @@ categories: posts
 >06/2025 | [ApJ 986, 45](https://doi.org/10.3847/1538-4357/add152)
 
 >*Intracluster light is a biased tracer of the dark matter distribution in clusters*  
->Butler, J., **Martin, G.**, Hatch, N. A., Pearce, F., Brough, S., Dubois, Y.  
+>Butler, Madeline, **Martin, G.**, Hatch, N. A., Pearce, F., Brough, S., Dubois, Y.  
 >05/2025 | [MNRAS 539, 2279](https://doi.org/10.1093/mnras/staf615)
 
 >*UV LIGHTS: New tools for revealing the low surface brightness regime in the ultraviolet*  
