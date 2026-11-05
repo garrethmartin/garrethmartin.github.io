@@ -1,0 +1,20 @@
+<div class="projects">
+  <h2 class="projects-title">projects</h2>
+  <div class="project-cards">
+    {% for p in site.data.projects %}
+    <div class="project-card">
+      <a class="project-image" href="{{ p.links[0].url }}"><img src="/images/{{ p.image }}" alt="{{ p.title }}" loading="lazy"></a>
+      <div class="project-body">
+        <span class="project-header">{{ p.title }}</span>
+        <p class="project-description">{{ p.description }}</p>
+      </div>
+      <div class="project-tags">
+        {% for t in p.tags %}<span class="project-tag">{{ t }}</span>{% endfor %}
+      </div>
+      <div class="project-buttons">
+        {% for l in p.links %}<a class="project-button" href="{{ l.url }}">{{ l.text }}</a>{% endfor %}
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</div>

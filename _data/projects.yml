@@ -1,0 +1,69 @@
+# project cards shown at the bottom of the homepage (_includes/projects.html)
+# image: file in /images, shown cropped to 2:1
+# links: buttons along the bottom of the card; tags: short keywords
+
+- title: Testing SIDM with the shape of the ICL
+  image: proj_shapes.png
+  description: >-
+    Is dark matter collisionless? In CDM the shape of the ICL closely follows that of the dark matter
+    halo, but if dark matter self-interacts the inner halo becomes rounder while the ICL stays
+    elongated. Comparing the two in galaxy clusters therefore offers a test of CDM against SIDM.
+  tags: [Intracluster light, SIDM, Dark matter, Galaxy clusters]
+  links:
+    - {text: Paper, url: "https://doi.org/10.1093/mnras/stag1423"}
+
+- title: Intracluster light as a dark matter tracer
+  image: proj_orbits.jpg
+  description: >-
+    Can the ICL map the dark matter in clusters? Stars stripped from satellites end up more bound
+    and more centrally concentrated than the stripped dark matter, by an amount set by the infalling
+    satellite population. The ICL therefore jointly constrains the spatial distribution of the dark
+    matter and the assembly history of the cluster.
+  tags: [Intracluster light, Dark matter, Cluster assembly, Galaxy clusters]
+  links:
+    - {text: Paper, url: "https://doi.org/10.1093/mnras/stag649"}
+    - {text: Interactive plots, url: "https://garrethmartin.github.io/interactive-profiles-ICL/"}
+
+- title: Structure and star formation in low-mass galaxies
+  image: proj_dwarf_sfh.jpg
+  description: >-
+    Simulations that match the integrated properties of dwarf galaxies still differ sharply in their
+    structure. Comparing simulated and observed dwarfs (paper I) and the coupling between their
+    morphology and star formation history (paper II, in preparation) gives a more discriminating
+    test of galaxy evolution models than integrated properties alone.
+  tags: [Dwarf galaxies, Galaxy evolution, Star formation history, Morphology]
+  links:
+    - {text: Paper I, url: "https://doi.org/10.1093/mnras/staf1092"}
+
+- title: Unsupervised machine learning
+  image: HSC2.png
+  description: >-
+    Surveys such as LSST will image far more galaxies than can be classified by eye. Unsupervised
+    machine learning sorts galaxies into morphological groups without training sets, and recovers
+    known trends of mass, colour and star formation with morphological type.
+  tags: [Galaxy morphology, Machine learning, LSST]
+  links:
+    - {text: Paper, url: "https://doi.org/10.1093/mnras/stz3006"}
+    - {text: GitHub, url: "https://github.com/garrethmartin/HSC_UML"}
+
+- title: Low-surface-brightness science with Rubin
+  image: proj_lsst.jpg
+  description: >-
+    Tidal features record the merger histories of galaxies. Mock images from NewHorizon show that
+    the 10-year LSST will recover around 80 per cent of the tidal-feature flux around Milky Way-mass
+    and more massive galaxies, but that their classification depends strongly on depth and viewing
+    angle.
+  tags: [Rubin/LSST, Tidal features, Galaxy mergers]
+  links:
+    - {text: Paper, url: "https://doi.org/10.1093/mnras/stac1003"}
+
+- title: Mock observations
+  image: proj_mocks.jpg
+  description: >-
+    Comparing simulations with observations on equal terms requires putting simulated galaxies
+    through the same observational effects as real data. Realistic mock images are used to test
+    galaxy formation models and to prepare low-surface-brightness science with Rubin/LSST and
+    Euclid.
+  tags: [Mock images, Simulations, Rubin/LSST, Euclid]
+  links:
+    - {text: GitHub, url: "https://github.com/garrethmartin/make_mocks"}

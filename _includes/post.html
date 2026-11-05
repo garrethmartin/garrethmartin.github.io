@@ -17,6 +17,7 @@
   <div class="post">
     {{ content }}
   </div>
+  {% if include.projects %}{% include projects.html %}{% endif %}
   <div class="colophon">
     <p>
       <!--<span id="pub-date">Published on {{ page.date | date_to_string }}</span> <span class="separator">&bull;</span>
