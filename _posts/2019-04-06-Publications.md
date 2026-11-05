@@ -9,7 +9,7 @@ icon: "📄"
 
 [`ADS Library`](https://ui.adsabs.harvard.edu/public-libraries/nThU2Yw3SUytqSYjksZ8uA "ADS library") &nbsp;&#9632;&nbsp; [`Google Scholar`](https://scholar.google.com/citations?user=4O8TNrgAAAAJ "Google Scholar") &nbsp;&#9632;&nbsp; [`Publication list (PDF)`](/files/publication_list.pdf "Publication list")
 
-*78 peer-reviewed publications and preprints &nbsp;&#9632;&nbsp; 2,875 citations (Scholar) &nbsp;&#9632;&nbsp; h-index 27 (Scholar) &nbsp;&#9632;&nbsp; i10-index 52 (Scholar) &nbsp;&#9632;&nbsp; September 2026*
+*81 peer-reviewed publications and preprints &nbsp;&#9632;&nbsp; 3,054 citations (Scholar) &nbsp;&#9632;&nbsp; h-index 28 (Scholar) &nbsp;&#9632;&nbsp; i10-index 56 (Scholar) &nbsp;&#9632;&nbsp; November 2026*
 
 ## First-author publications
 
@@ -66,9 +66,37 @@ icon: "📄"
 
 ### 2026
 
+>*Disentangling the assembly of the central and diffuse stellar components in galaxy clusters through dynamical friction and tidal stripping*  
+>Pearce, Frazer R., Bamford, Steven P., **Martin, Garreth**, Bahé, Yannick M., Brown, Harley J., Butler, Madeline, Contreras-Santos, Ana, Cui, Weiguang, Hatch, Nina, Knebe, Alexander  
+>11/2026 | [MNRAS 552, stag1912](https://doi.org/10.1093/mnras/stag1912)
+
+>*Isophotal signatures of the brightest cluster galaxy-intracluster light transition*  
+>Golini, Giulia, Brough, Sarah, Canepa, Louisa, **Martin, Garreth**, Kluge, Matthias  
+>11/2026 | [MNRAS 553, stag1938](https://doi.org/10.1093/mnras/stag1938)
+
 >*The relationship between morphology, density, and location in the cosmic web from massive to dwarf galaxies*  
 >Lazar, I., Kaviraj, S., Watkins, A. E., Conselice, C. J., Kakkad, D., Sedgwick, T. M., **Martin, G.**, Koudmani, S.  
 >10/2026 | [MNRAS 551, stag1532](https://doi.org/10.1093/mnras/stag1532)
+
+>*Euclid Quick Data Release (Q1). The metallicity of the intracluster light*  
+>Euclid Collaboration, Golden-Marx, J. B., Hatch, N. A., Bamford, S. P., Gao, H., Kolcu, T., Montes, M., Brown, H. J., Bahé, Y. M., Gully, H., **Martin, G.**, Urbano, M., Ahad, S. L., Bellhouse, C., Bolzonella, M., Butler, M., Cui, Weiguang, Durret, F., Ellien, A., Gonzalez, A. H., Kluge, M., Moscardini, L., Pearce, F. R., Ragusa, R., Altieri, B., Andreon, S., Auricchio, N., Baccigalupi, C., Baldi, M., Bardelli, S., Battaglia, P., Biviano, A., Branchini, E., Brescia, M., Brinchmann, J., Camera, S., Cañas-Herrera, G., Capobianco, V., Carbone, C., Cardone, V. F., Carretero, J., Casas, S., Castellano, M., Castignani, G., Cavuoti, S., Chambers, K. C., Cimatti, A., Colodro-Conde, C., Congedo, G., Conselice, C. J., Conversi, L., Copin, Y., Costille, A., Courbin, F., Courtois, H. M., Cropper, M., Cuillandre, J.-C., Da Silva, A., Degaudenzi, H., De Lucia, G., Dole, H., Dubath, F., Duncan, C. A. J., Dupac, X., Dusini, S., Escoffier, S., Farina, M., Farinelli, R., Ferriol, S., Finelli, F., Fotopoulou, S., Frailis, M., Franceschi, E., Gabarra, L., Galeotta, S., George, K., Gillis, B., Giocoli, C., Gracia-Carpio, J., Grazian, A., Grupp, F., Hartley, W. G., Haugan, S. V. H., Holmes, W., Hook, I. M., Hormuth, F., Hornstrup, A., Jahnke, K., Jhabvala, M., Joachimi, B., Keihänen, E., Kermiche, S., Kiessling, A., Kubik, B., Kümmel, M., Kunz, M., Kurki-Suonio, H., Le Brun, A. M. C., Ligori, S., Lilje, P. B., Lindholm, V., Lloro, I., Magliocchetti, M., Mainetti, G., Maino, D., Maiorano, E., Mansutti, O., Marcin, S., Marggraf, O., Martinelli, M., Martinet, N., Marulli, F., Massey, R. J., Mauri, N., Maurogordato, S., McPartland, C. J. R., Medinaceli, E., Mei, S., Melchior, M., Mellier, Y., Meneghetti, M., Merlin, E., Meylan, G., Monaco, P., Mora, A., Moresco, M., Moretti, C., Nakajima, R., Neissner, C., Nichol, R. C., Niemi, S.-M., Padilla, C., Paltani, S., Pasian, F., Pedersen, K., Percival, W. J., Pettorino, V., Pezzotta, A., Pires, S., Polenta, G., Poncet, M., Popa, L. A., Porciani, C., Pozzetti, L., Raison, F., Rebolo, R., Renzi, A., Rhodes, J., Riccio, G., Risso, I., Romelli, E., Roncarelli, M., Saglia, R., Sakr, Z., Sapone, D., Sartoris, B., Schewtschenko, J. A., Schirmer, M., Schneider, P., Schrabback, T., Secroun, A., Seidel, G., Serrano, S., Simon, P., Sirignano, C., Sirri, G., Stanco, L., Steinwagner, J., Tallada-Crespí, P., Taylor, A. N., Teplitz, H. I., Tereno, I., Tessore, N., Toft, S., Toledo-Moreo, R., Torradeflot, F., Tutusaus, I., Valiviita, J., Vassallo, T., Veropalumbo, A., Wang, Y., Weller, J., Zacchei, A., Zamorani, G., Zerbi, F. M., Zinchenko, I. A., Zucca, E., Ballardini, M., Bozzo, E., Burigana, C., Cabanac, R., Calabrese, M., Cappi, A., Castro, T., Escartin Vigo, J. A., García-Bellido, J., Maoli, R., Martín-Fleitas, J., Metcalf, R. B., Pöntinen, M., Scottez, V., Sereno, M., Tenti, M., Viel, M., Wiesmann, M., Akrami, Y., Andika, I. T., Angora, G., Anselmi, S., Archidiacono, M., Atrio-Barandela, F., Bazzanini, L., Bertacca, D., Bethermin, M., Blanchard, A., Blot, L., Böhringer, H., Bonici, M., Borgani, S., Brown, M. L., Bruton, S., Calabro, A., Camacho Quevedo, B., Caro, F., Carvalho, C. S., Charles, Y., Cogato, F., Conseil, S., Cooray, A. R., Costanzi, M., Cucciati, O., Davini, S., Desprez, G., Díaz-Sánchez, A., Di Domizio, S., Diego, J. M., Dimauro, P., Duc, P.-A., Elkhashab, M. Y., Enia, A., Fang, Y., Fontanot, F., Franco, A., Ganga, K., Gasparetto, T., Gautard, V., Gavazzi, R., Gaztanaga, E., Giacomini, F., Gianotti, F., Gozaliasl, G., Guidi, M., Gutierrez, C. M., Hall, A., Hildebrandt, H., Hjorth, J., Hunt, L. K., Kajava, J. J. E., Kang, Y., Kansal, V., Karagiannis, D., Kiiveri, K., Kim, J., Kirkpatrick, C. C., Kruk, S., Lattanzi, M., Legrand, L., Lepori, F., Leroy, G., Lesci, G. F., Lesgourgues, J., Leuzzi, L., Liaudat, T. I., Liu, S. J., Loureiro, A., Macias-Perez, J., Mannucci, F., Martins, C. J. A. P., Maurin, L., Miluzio, M., Montoro, A., Morgante, G., Nadathur, S., Naidoo, K., Natoli, P., Navarro-Alsina, A., Nesseris, S., Paoletti, D., Passalacqua, F., Paterson, K., Pisani, A., Potter, D., Pratt, G. W., Quai, S., Radovich, M., Rodighiero, G., Roster, W., Sacquegna, S., Sahlén, M., Sanders, D. B., Sarpa, E., Schaye, J., Schneider, A., Schultheis, M., Sciotti, D., Sellentin, E., Shankar, F., Smith, L. C., Sorce, J. G., Stanford, S. A., Tanidis, K., Tarsitano, F., Testera, G., Teyssier, R., Tosi, S., Troja, A., Tucci, M., Venhola, A., Vergani, D., Verza, G., Vielzeuf, P., Vinciguerra, S., Walton, N. A.  
+>10/2026 | [arXiv , arXiv:2610.29686](https://doi.org/10.48550/arXiv.2610.29686)
+
+>*Euclid Quick Data Release (Q1). A systematic study of the intracluster light fraction at 0.2 &lt; z &lt; 1.5*  
+>Euclid Collaboration, Gully, H., Hatch, N. A., Gao, H., Bamford, S. P., Golden-Marx, J. B., Fernandez, A., Kolcu, T., Bahé, Y. M., Gonzalez, A. H., Montes, M., Urbano, M., Brown, H. J., **Martin, G.**, Moscardini, L., Durret, F., Ahad, S. L., Sorce, J. G., Altieri, B., Andreon, S., Auricchio, N., Baccigalupi, C., Baldi, M., Bardelli, S., Battaglia, P., Biviano, A., Bolzonella, M., Branchini, E., Brescia, M., Camera, S., Capobianco, V., Carbone, C., Cardone, V. F., Carretero, J., Castellano, M., Castignani, G., Cavuoti, S., Chambers, K. C., Cimatti, A., Colodro-Conde, C., Congedo, G., Conselice, C. J., Conversi, L., Copin, Y., Costille, A., Courbin, F., Courtois, H. M., Cropper, M., Degaudenzi, H., De Lucia, G., Dole, H., Dubath, F., Dupac, X., Ealet, A., Escoffier, S., Farina, M., Farinelli, R., Faustini, F., Ferriol, S., Finelli, F., Fosalba, P., Fotopoulou, S., Fourmanoit, N., Frailis, M., Franceschi, E., Fumana, M., Gabarra, L., Galeotta, S., George, K., Gillis, B., Giocoli, C., Gracia-Carpio, J., Grazian, A., Grupp, F., Gwyn, S., Haugan, S. V. H., Hemmati, S., Hoekstra, H., Holmes, W., Hormuth, F., Hornstrup, A., Jahnke, K., Jhabvala, M., Joachimi, B., Kermiche, S., Kiessling, A., Kubik, B., Kümmel, M., Kunz, M., Kurki-Suonio, H., Le Brun, A. M. C., Ligori, S., Lilje, P. B., Lindholm, V., Lloro, I., Magliocchetti, M., Mainetti, G., Maino, D., Mansutti, O., Marggraf, O., Martinelli, M., Martinet, N., Marulli, F., Massey, R. J., Mauri, N., Medinaceli, E., Mei, S., Melchior, M., Meneghetti, M., Merlin, E., Meylan, G., Monaco, P., Mora, A., Moresco, M., Moretti, C., Nakajima, R., Neissner, C., Nichol, R. C., Niemi, S.-M., Padilla, C., Paltani, S., Pasian, F., Percival, W. J., Pettorino, V., Pezzotta, A., Pires, S., Polenta, G., Poncet, M., Popa, L. A., Pozzetti, L., Raison, F., Renzi, A., Rhodes, J., Riccio, G., Risso, I., Rizzo, F., Romelli, E., Roncarelli, M., Rusholme, B., Saglia, R., Sakr, Z., Sapone, D., Sartoris, B., Schneider, P., Schrabback, T., Secroun, A., Sihvola, E., Simon, P., Sirignano, C., Sirri, G., Stanco, L., Tallada-Crespí, P., Taylor, A. N., Tereno, I., Toft, S., Toledo-Moreo, R., Torradeflot, F., Tutusaus, I., Valiviita, J., Vassallo, T., Wang, Y., Weller, J., Zacchei, A., Zamorani, G., Zerbi, F. M., Zucca, E., Ballardini, M., Bergamini, P., Borgani, S., Bozzo, E., Burigana, C., Cabanac, R., Caro, F., Castro, T., Di Ferdinando, D., Escartin Vigo, J. A., García-Bellido, J., Gasparetto, T., Gautard, V., Gutierrez, C. M., Macias-Perez, J., Maoli, R., Metcalf, R. B., Nucita, A. A., Sarpa, E., Scottez, V., Sereno, M., Tenti, M., Tucci, M., Viel, M., Wiesmann, M., Acevedo Barroso, J. A., Adam, R., Akrami, Y., Andika, I. T., Anselmi, S., Archidiacono, M., Aricò, G., Atrio-Barandela, F., Baes, M., Bazzanini, L., Bertacca, D., Bethermin, M., Beutler, F., Blanchard, A., Blot, L., Böhringer, H., Brown, M. L., Bruton, S., Camacho Quevedo, B., Carvalho, C. S., Cogato, F., Collett, T. E., Conseil, S., Cooray, A. R., Corcho-Caballero, P., Csizi, B., Cucciati, O., Dannerbauer, H., Davini, S., de Boer, T., De Paolis, F., Desprez, G., Díaz-Sánchez, A., Di Domizio, S., Diego, J. M., Dimauro, P., Duc, P.-A., Duret, V., Fang, Y., Farina, A., Finoguenov, A., Fontanot, F., Franco, A., Fu, Y., Ganga, K., Gavazzi, R., Gaztanaga, E., Ghaffari, Z., Giacomini, F., Gianotti, F., Gozaliasl, G., Gruppuso, A., Guidi, M., Hall, A., Hernández-Monteagudo, C., Heuberger, T., Hildebrandt, H., Hjorth, J., Kajava, J. J. E., Kang, Y., Kansal, V., Karagiannis, D., Kim, J., Kirkpatrick, C. C., Kovács, A., Kovačić, I., Koyama, K., Kruk, S., Lam, M. C., Legrand, L., Leroy, G., Lesgourgues, J., Linke, L., Liu, S. J., Mannucci, F., Marleau, F. R., Martins, C. J. A. P., Migliaccio, M., Miluzio, M., Morgante, G., Naidoo, K., Navarro-Alsina, A., Nesseris, S., Nicastro, L., Oppizzi, F., Pace, F., Paoletti, D., Passalacqua, F., Paterson, K., Patrizii, L., Pattison, C., Pisani, A., Potter, D., Pratt, G. W., Quai, S., Radovich, M., Rodighiero, G., Roster, W., Sacquegna, S., Sahlén, M., Sanders, D. B., Schneider, A., Sciotti, D., Sellentin, E., Serjeant, S., Shankar, F., Shulevski, A., Smith, L. C., Stanford, S. A., Szapudi, I., Tanidis, K., Tarsitano, F., Testera, G., Teyssier, R., Tosi, S., Troja, A., Uhlemann, C., Valieri, C., Venhola, A., Vergani, D., Vielzeuf, P., Vinciguerra, S., Walton, N. A., Wang, L., Wright, A. H.  
+>10/2026 | [arXiv , arXiv:2610.29684](https://doi.org/10.48550/arXiv.2610.29684)
+
+>*Euclid Quick Data Release (Q1). Data processing for intracluster light measurements*  
+>Euclid Collaboration, Bamford, S. P., Gao, H., Hatch, N. A., Kolcu, T., Fernandez, A., **Martin, G.**, Bahé, Y. M., Golden-Marx, J. B., Gonzalez, A. H., Gully, H., Montes, M., Urbano, M., Kluge, M., Duc, P.-A., Scott, D., Altieri, B., Andreon, S., Auricchio, N., Baccigalupi, C., Baldi, M., Bardelli, S., Battaglia, P., Biviano, A., Bolzonella, M., Branchini, E., Brescia, M., Camera, S., Capobianco, V., Carbone, C., Cardone, V. F., Carretero, J., Castellano, M., Castignani, G., Cavuoti, S., Cimatti, A., Colodro-Conde, C., Congedo, G., Conselice, C. J., Conversi, L., Copin, Y., Courbin, F., Courtois, H. M., Cropper, M., Cuillandre, J.-C., Degaudenzi, H., De Lucia, G., Dole, H., Dubath, F., Dupac, X., Escoffier, S., Farina, M., Farinelli, R., Faustini, F., Ferriol, S., Fosalba, P., Fotopoulou, S., Frailis, M., Franceschi, E., Fumana, M., Gabarra, L., Galeotta, S., George, K., Gillis, B., Giocoli, C., Gracia-Carpio, J., Grazian, A., Grupp, F., Hartley, W. G., Haugan, S. V. H., Hoekstra, H., Holmes, W., Hook, I. M., Hormuth, F., Hornstrup, A., Jahnke, K., Jhabvala, M., Joachimi, B., Kermiche, S., Kiessling, A., Kubik, B., Kümmel, M., Kunz, M., Kurki-Suonio, H., Le Brun, A. M. C., Ligori, S., Lilje, P. B., Lindholm, V., Lloro, I., Magliocchetti, M., Mainetti, G., Mansutti, O., Marggraf, O., Martinelli, M., Martinet, N., Marulli, F., Massey, R. J., Mauri, N., Medinaceli, E., Mei, S., Melchior, M., Meneghetti, M., Merlin, E., Meylan, G., Monaco, P., Mora, A., Moresco, M., Moretti, C., Moscardini, L., Nakajima, R., Neissner, C., Niemi, S.-M., Nightingale, J. W., Padilla, C., Paech, K., Paltani, S., Pasian, F., Pedersen, K., Percival, W. J., Pettorino, V., Pezzotta, A., Pires, S., Polenta, G., Poncet, M., Popa, L. A., Pozzetti, L., Raison, F., Rebolo, R., Renzi, A., Rhodes, J., Riccio, G., Risso, I., Romelli, E., Roncarelli, M., Rusholme, B., Saglia, R., Sakr, Z., Sapone, D., Sartoris, B., Schneider, P., Schrabback, T., Secroun, A., Sihvola, E., Simon, P., Sirignano, C., Sirri, G., Skottfelt, J., Stanco, L., Tallada-Crespí, P., Taylor, A. N., Tereno, I., Tessore, N., Toft, S., Toledo-Moreo, R., Torradeflot, F., Tutusaus, I., Valiviita, J., Vassallo, T., Verdoes Kleijn, G., Veropalumbo, A., Wang, Y., Weller, J., Zacchei, A., Zamorani, G., Zerbi, F. M., Zucca, E., Ballardini, M., Bozzo, E., Burigana, C., Cabanac, R., Cappi, A., Castro, T., Escartin Vigo, J. A., García-Bellido, J., Macias-Perez, J., Maoli, R., Martín-Fleitas, J., Metcalf, R. B., Pöntinen, M., Scottez, V., Sereno, M., Tenti, M., Tucci, M., Wiesmann, M., Akrami, Y., Andika, I. T., Angora, G., Anselmi, S., Archidiacono, M., Atrio-Barandela, F., Bazzanini, L., Bergamini, P., Bertacca, D., Bethermin, M., Beutler, F., Blot, L., Bonici, M., Borgani, S., Brown, M. L., Bruton, S., Buitrago, F., Calabro, A., Camacho Quevedo, B., Caro, F., Carvalho, C. S., Charles, Y., Cogato, F., Conseil, S., Cooray, A. R., Cucciati, O., Davini, S., de Boer, T., De Paolis, F., Desprez, G., Díaz-Sánchez, A., Di Domizio, S., Diego, J. M., Duret, V., Elkhashab, M. Y., Fang, Y., Finoguenov, A., Franco, A., Ganga, K., Gasparetto, T., Gavazzi, R., Gaztanaga, E., Giacomini, F., Gianotti, F., Gozaliasl, G., Gruppuso, A., Guidi, M., Gutierrez, C. M., Hall, A., Hernández-Monteagudo, C., Hildebrandt, H., Hjorth, J., Kajava, J. J. E., Kang, Y., Kansal, V., Karagiannis, D., Kiiveri, K., Kim, J., Kirkpatrick, C. C., Koyama, K., Kruk, S., Lam, M. C., Lepori, F., Leroy, G., Lesci, G. F., Lesgourgues, J., Liaudat, T. I., Liu, S. J., Loureiro, A., Maggio, G., Mannucci, F., Martins, C. J. A. P., Miluzio, M., Morgante, G., Murray, C., Nadathur, S., Naidoo, K., Navarro-Alsina, A., Nesseris, S., Pace, F., Paoletti, D., Passalacqua, F., Paterson, K., Patrizii, L., Pattison, C., Pisani, A., Potter, D., Pratt, G. W., Quai, S., Radovich, M., Rojas, K., Roster, W., Sacquegna, S., Sahlén, M., Sanders, D. B., Sarpa, E., Schneider, A., Schultheis, M., Sciotti, D., Sellentin, E., Shankar, F., Smith, L. C., Stadel, J., Szapudi, I., Tanidis, K., Tarsitano, F., Testera, G., Teyssier, R., Tosi, S., Troja, A., Uhlemann, C., Valieri, C., Venhola, A., Vergani, D., Verza, G., Vilenius, E., Vinciguerra, S., von Wietersheim-Kramsta, M., Walton, N. A., Weaver, J. R., Wright, A. H., Yeung, H. W., Knapen, J. H.  
+>10/2026 | [arXiv , arXiv:2610.29682](https://doi.org/10.48550/arXiv.2610.29682)
+
+>*Starbursts hiding in the main sequence: a pathway toward quenching?*  
+>Renaud, Florent, Kraljic, Katarina, Freundlich, Jonathan, Magnelli, Benjamin, Béthermin, Matthieu, Accard, Cédric, Ismail, Diana, Daddi, Emanuele, Elbaz, David, Ciesla, Laure, **Martin, Gareth**, Dubois, Yohan, Peirani, Sébastien  
+>10/2026 | [OJAp 9, 72039](https://doi.org/10.33232/001c.172039)
+
+>*Euclid Quick Data Release (Q1). The shape of cluster haloes revealed by intracluster light*  
+>Euclid Collaboration, Kolcu, T., Hatch, N. A., Fernandez, A., Bamford, S. P., Gao, H., Golden-Marx, J. B., **Martin, G.**, Bahé, Y. M., Ahad, S. L., Bellhouse, C., Butler, M., de Nicola, S., Durret, F., Ellien, A., Gonzalez, A. H., Gully, H., Kluge, M., Maturi, M., Montes, M., Moscardini, L., Ragusa, R., Saro, A., Urbano, M., Aghanim, N., Altieri, B., Andreon, S., Auricchio, N., Baccigalupi, C., Baldi, M., Bardelli, S., Battaglia, P., Bender, R., Biviano, A., Bolzonella, M., Branchini, E., Brescia, M., Camera, S., Cañas-Herrera, G., Capobianco, V., Carbone, C., Carretero, J., Casas, S., Castellano, M., Castignani, G., Cavuoti, S., Chambers, K. C., Cimatti, A., Colodro-Conde, C., Congedo, G., Conselice, C. J., Conversi, L., Copin, Y., Courbin, F., Courtois, H. M., Cropper, M., Cuillandre, J.-C., Da Silva, A., Degaudenzi, H., De Lucia, G., Dolding, C., Dole, H., Dubath, F., Dupac, X., Escoffier, S., Farina, M., Farinelli, R., Ferriol, S., Finelli, F., Fosalba, P., Fotopoulou, S., Frailis, M., Franceschi, E., Fumana, M., Gabarra, L., Galeotta, S., George, K., Gillis, B., Giocoli, C., Gómez-Alvarez, P., Gracia-Carpio, J., Grazian, A., Grupp, F., Haugan, S. V. H., Hemmati, S., Hoekstra, H., Holmes, W., Hormuth, F., Hornstrup, A., Huertas-Company, M., Jahnke, K., Jhabvala, M., Joachimi, B., Kermiche, S., Kiessling, A., Kubik, B., Kümmel, M., Kunz, M., Kurki-Suonio, H., Laureijs, R., Le Brun, A. M. C., Ligori, S., Lilje, P. B., Lindholm, V., Lloro, I., Magliocchetti, M., Mainetti, G., Maino, D., Maiorano, E., Mansutti, O., Marcin, S., Marggraf, O., Martinelli, M., Martinet, N., Marulli, F., Massey, R. J., Mauri, N., Maurogordato, S., Medinaceli, E., Mei, S., Mellier, Y., Meneghetti, M., Merlin, E., Meylan, G., Monaco, P., Mora, A., Moresco, M., Moretti, C., Nakajima, R., Neissner, C., Niemi, S.-M., Nightingale, J. W., Padilla, C., Paltani, S., Pasian, F., Pedersen, K., Percival, W. J., Pettorino, V., Pezzotta, A., Pires, S., Polenta, G., Poncet, M., Popa, L. A., Pozzetti, L., Raison, F., Renzi, A., Rhodes, J., Riccio, G., Risso, I., Romelli, E., Roncarelli, M., Rusholme, B., Saglia, R., Sakr, Z., Sapone, D., Sartoris, B., Schirmer, M., Schneider, P., Schrabback, T., Secroun, A., Sefusatti, E., Seidel, G., Serrano, S., Sihvola, E., Simon, P., Sirignano, C., Sirri, G., Skottfelt, J., Stanco, L., Steinwagner, J., Tallada-Crespí, P., Taylor, A. N., Tereno, I., Tessore, N., Toft, S., Toledo-Moreo, R., Torradeflot, F., Tutusaus, I., Valenziano, L., Valiviita, J., Vassallo, T., Verdoes Kleijn, G., Wang, Y., Weller, J., Zacchei, A., Zamorani, G., Zucca, E., Ballardini, M., Bozzo, E., Burigana, C., Cabanac, R., Calabrese, M., Cappi, A., Castro, T., Escartin Vigo, J. A., García-Bellido, J., Gautard, V., Macias-Perez, J., Maoli, R., Martín-Fleitas, J., Metcalf, R. B., Nucita, A. A., Pöntinen, M., Scottez, V., Sereno, M., Tenti, M., Tucci, M., Viel, M., Wiesmann, M., Akrami, Y., Andika, I. T., Angora, G., Anselmi, S., Archidiacono, M., Atrio-Barandela, F., Aubourg, E., Baumont, L., Bazzanini, L., Bertacca, D., Bethermin, M., Beutler, F., Blanchard, A., Blot, L., Böhringer, H., Bonici, M., Borgani, S., Brown, M. L., Bruton, S., Calabro, A., Camacho Quevedo, B., Caro, F., Carvalho, C. S., Charles, Y., Cogato, F., Conseil, S., Cooray, A. R., Costanzi, M., Cucciati, O., Davini, S., De Paolis, F., Desprez, G., Díaz-Sánchez, A., Di Domizio, S., Diego, J. M., Dimauro, P., Duc, P.-A., Duret, V., Elkhashab, M. Y., Enia, A., Fang, Y., Finoguenov, A., Franco, A., Ganga, K., Gasparetto, T., Gaztanaga, E., Giacomini, F., Gianotti, F., Gozaliasl, G., Guidi, M., Gutierrez, C. M., Hall, A., Hildebrandt, H., Hjorth, J., Hunt, L. K., Kajava, J. J. E., Kang, Y., Kansal, V., Karagiannis, D., Kiiveri, K., Kim, J., Kirkpatrick, C. C., Kruk, S., Lattanzi, M., Legrand, L., Lepori, F., Leroy, G., Lesci, G. F., Lesgourgues, J., Liaudat, T. I., Liu, S. J., Loureiro, A., Mancini, C., Mannucci, F., Martins, C. J. A. P., Maurin, L., Miluzio, M., Montoro, A., Morgante, G., Nadathur, S., Naidoo, K., Natoli, P., Navarro-Alsina, A., Nesseris, S., Paoletti, D., Passalacqua, F., Paterson, K., Patrizii, L., Pisani, A., Potter, D., Pratt, G. W., Quai, S., Radovich, M., Rodighiero, G., Rojas, K., Roster, W., Sacquegna, S., Sahlén, M., Sanders, D. B., Sarpa, E., Schaye, J., Schneider, A., Sciotti, D., Sellentin, E., Shankar, F., Smith, L. C., Sorce, J. G., Stanford, S. A., Tanidis, K., Tarsitano, F., Testera, G., Teyssier, R., Tosi, S., Troja, A., Venhola, A., Vergani, D., Verza, G., Vielzeuf, P., Vinciguerra, S., Walton, N. A., Wright, A. H.  
+>10/2026 | [arXiv , arXiv:2610.29683](https://doi.org/10.48550/arXiv.2610.29683)
 
 >*A consistent comparison of intracluster light assembly in simulations I. Redshift evolution and progenitor galaxies*  
 >Brown, Harley J., **Martin, Garreth**, Pearce, Frazer R., Bahé, Yannick M., Butler, Madeline, Cui, Weiguang, Hatch, Nina A., Knebe, Alexander  
@@ -77,6 +105,10 @@ icon: "📄"
 >*Intracluster light and dark matter halo shapes reflect common assembly, not mutual coupling: shape correspondence in CDM but not SIDM*  
 >**Martin, G.**, Hatch, N. A., Cui, W., Fernandez, A., Bahé, Y. M., Fischer, M. S., Montes, M., Pearce, F. R., Sabiu, C. G., Yepes, G., Yoo, J.  
 >09/2026 | [MNRAS 551, stag1423](https://doi.org/10.1093/mnras/stag1423)
+
+>*LIGHTS. Limitations of Far-Infrared Tracers for Galactic Cirrus Mitigation in the Era of Ultra-Deep Imaging*  
+>Kaboud, Ouldouz, Trujillo, Ignacio, Ruiz Cejudo, Ignacio, Zahra Hosseini-ShahiSavandi, S., Montes, Mireia, Guerra Arencibia, Sergio, D'Onofrio, Mauro, Zaritsky, Dennis, Roman, Javier, Chamba, Nushkia, Golini, Giulia, Chuang, Chen-Yu, Le, Minh Ngoc, Marrero-de la Rosa, Carlos, Sharbaf, Zahra, Donnerstein, Richard, Eskandarlou, Sepideh, Infante-Sainz, Raul, **Martin, Garreth**, Raji, Samane, Sedighi, Nafise  
+>09/2026 | [arXiv , arXiv:2610.00463](https://doi.org/10.48550/arXiv.2610.00463)
 
 >*Global trends in morphology from massive to dwarf galaxies*  
 >Lazar, I., Kaviraj, S., Conselice, C. J., Westcott, L., Watkins, A. E., Koudmani, S., **Martin, G.**, Sedgwick, T. M., Kakkad, D., Bichang'a, B.  
@@ -94,17 +126,17 @@ icon: "📄"
 >Sazonova, Elizaveta, Morgan, Cameron R., Balogh, Michael, Blaña, Matías, Bornancini, Carlos G., Cotter, Aidan P., Donevski, Darko, Graham, Alister W., Toledo, Hector M. Hernandez, Holwerda, Benne W., Kartaltepe, Jeyhan S., **Martin, Garreth**, Pearson, William J., Ragusa, Rossella, Rodriguez-Gomez, Vicente, Rutkowski, Michael J., Vázquez-Mata, Jose Antonio, Windhorst, Rogier A., Yuzovitskiy, Jacob  
 >04/2026 | [OJAp 9, 60562](https://doi.org/10.33232/001c.160562)
 
->*The major merger─active galactic nucleus connection up to cosmic noon*  
->La Marca, A., Margalef-Bentabol, B., Wang, L., Trager, S. C., Rodriguez-Gomez, V., **Martin, G.**  
->04/2026 | [A&A 708, A373](https://doi.org/10.1051/0004-6361/202555185)
+>*AGN in massive galaxies identified via optical broad-band variability: lessons from VST-COSMOS for future LSST science*  
+>Bichang'a, B., De Cicco, D., Kaviraj, S., Lazar, I., Watkins, A. E., **Martin, G.**, Kakkad, D.  
+>04/2026 | [MNRAS 547, stag287](https://doi.org/10.1093/mnras/stag287)
 
 >*Downsizing does not extend to dwarf galaxies: identifying the stellar mass regimes shaped by supernova and AGN feedback*  
 >Lazar, I., Kaviraj, S., **Martin, G.**, Conselice, C. J., Koudmani, S., Watkins, A. E., Yi, S. K., Kakkad, D., Sedgwick, T. M., Dubois, Y., Devriendt, J. E. G., Kraljic, K., Peirani, S.  
 >04/2026 | [MNRAS 547, stag207](https://doi.org/10.1093/mnras/stag207)
 
->*AGN in massive galaxies identified via optical broad-band variability: lessons from VST-COSMOS for future LSST science*  
->Bichang'a, B., De Cicco, D., Kaviraj, S., Lazar, I., Watkins, A. E., **Martin, G.**, Kakkad, D.  
->04/2026 | [MNRAS 547, stag287](https://doi.org/10.1093/mnras/stag287)
+>*The major merger─active galactic nucleus connection up to cosmic noon*  
+>La Marca, A., Margalef-Bentabol, B., Wang, L., Trager, S. C., Rodriguez-Gomez, V., **Martin, G.**  
+>04/2026 | [A&A 708, A373](https://doi.org/10.1051/0004-6361/202555185)
 
 >*Multiwavelength morphology and dust emission in low-redshift dwarf galaxies in COSMOS-Web with HST and JWST*  
 >Kakkad, D., Lazar, I., Harish, S., Bichang'a, B., Cochrane, R. K., Kaviraj, S., Watkins, A. E., **Martin, G.**, Koudmani, S., Battisti, Andrew J., Casey, Caitlin, Franco, Maximilien, Gozaliasl, G., Hirschmann, M., Kartaltepe, Jeyhan, Khostovan, A. A., Koekemoer, Anton, Liu, Daizhong, McCracken, Henry Joy, Rhodes, Jason, Robertson, Brant  
@@ -121,10 +153,6 @@ icon: "📄"
 >*On the Origin of Intracluster Light Based on the High-resolution Simulation, NEWCLUSTER*  
 >Jeon, Seyoung, Contini, Emanuele, Han, San, Rhee, Jinsu, **Martin, Garreth**, Kim, Juhan, Lee, Jaehyun, Kimm, Taysun, Pichon, Christophe, Byun, Gyeong-Hwan, Dubois, Yohan, Cadiou, Corentin, Jang, J. K., Yi, Sukyoung K.  
 >02/2026 | [ApJ 998, 30](https://doi.org/10.3847/1538-4357/ae2eaa)
-
->*Starbursts hiding in the main sequence: a pathway toward quenching?*  
->Renaud, Florent, Kraljic, Katarina, Freundlich, Jonathan, Magnelli, Benjamin, Béthermin, Matthieu, Accard, Cédric, Ismail, Diana, Daddi, Emanuele, Elbaz, David, Ciesla, Laure, **Martin, Gareth**, Dubois, Yohan, Peirani, Sébastien  
->02/2026 | [arXiv , arXiv:2602.23445](https://doi.org/10.48550/arXiv.2602.23445)
 
 >*Variability-selected AGN in dwarf galaxies: the incidence of AGN in dwarf and massive galaxies is similar*  
 >Kaviraj, S., De Cicco, D., Lazar, I., Bichang'a, B., Watkins, A. E., **Martin, G.**, Koudmani, S.  
@@ -156,37 +184,37 @@ icon: "📄"
 >Kimmig, Lucas C., Brough, Sarah, Dolag, Klaus, Remus, Rhea-Silvia, Bahé, Yannick M., **Martin, Garreth**, Pillepich, Annalisa, Hatch, Nina, Montes, Mireia, Ahad, Syeda Lammim, Bellhouse, Callum, Brown, Harley J., Ellien, Amaël, Golden-Marx, Jesse B., Gonzalez, Anthony H., Iodice, Enrica, Jiménez-Teja, Yolanda, Kluge, Matthias, Knapen, Johan H., Mihos, J. Christopher, Ragusa, Rossella, Spavone, Marilena  
 >08/2025 | [A&A 700, A95](https://doi.org/10.1051/0004-6361/202554777)
 
->*Cosmic reflections I: the structural diversity of simulated and observed low-mass galaxy analogues*  
->**Martin, G.**, Watkins, A. E., Dubois, Y., Devriendt, J., Kaviraj, S., Kim, D., Kraljic, K., Lazar, I., Pearce, F. R., Peirani, S., Pichon, C., Slyz, A., Yi, S. K.  
->08/2025 | [MNRAS 541, 1831](https://doi.org/10.1093/mnras/staf1092)
-
 >*LIGHTS: A robust technique to identify galaxy edges*  
 >Golini, Giulia, Trujillo, Ignacio, Zaritsky, Dennis, Montes, Mireia, Infante-Sainz, Raúl, **Martin, Garreth**, Chamba, Nushkia, Ruiz Cejudo, Ignacio, Asensio Ramos, Andrés, Chuang, Chen-Yu, D'Onofrio, Mauro, Eskandarlou, Sepideh, Zahra Hosseini-ShahiSavandi, S., Kaboud, Ouldouz, Marrero de la Rosa, Carlos, Ngoc Le, Minh, Raji, Samane, Román, Javier, Sedighi, Nafise, Sharbaf, Zahra, Donnerstein, Richard, Guerra Arencibia, Sergio  
 >08/2025 | [A&A 700, A91](https://doi.org/10.1051/0004-6361/202555288)
+
+>*Cosmic reflections I: the structural diversity of simulated and observed low-mass galaxy analogues*  
+>**Martin, G.**, Watkins, A. E., Dubois, Y., Devriendt, J., Kaviraj, S., Kim, D., Kraljic, K., Lazar, I., Pearce, F. R., Peirani, S., Pichon, C., Slyz, A., Yi, S. K.  
+>08/2025 | [MNRAS 541, 1831](https://doi.org/10.1093/mnras/staf1092)
 
 >*LIGHTS. The extended point spread functions of the LIGHTS survey at the LBT*  
 >Sedighi, Nafise, Sharbaf, Zahra, Trujillo, Ignacio, Eskandarlou, Sepideh, Golini, Giulia, Infante-Sainz, Raúl, Raji, Samane, Zaritsky, Dennis, Ardakani, Pedram Ashofteh, Chamba, Nushkia, Hosseini-ShahiSavandi, S. Zahra, Donnerstein, Richard, D'Onofrio, Mauro, **Martin, Garreth**, Montes, Mireia, Román, Javier  
 >06/2025 | [OJAp 8, 73](https://doi.org/10.33232/001c.140865)
 
->*Nearby dwarf galaxies with extreme star formation rates: a window into dwarf─galaxy evolution in the early Universe*  
->Kaviraj, S., Bichang'a, B., Lazar, I., Watkins, A. E., **Martin, G.**, Jackson, R. A.  
->06/2025 | [MNRAS 540, 594](https://doi.org/10.1093/mnras/staf716)
-
 >*The diversity of rotation curves of galaxies in the NEWHORIZON cosmological simulation*  
 >Jackson, R. A., Navarro, J. F., Santos-Santos, I. M. E., Kaviraj, S., Yi, S. K., Peirani, S., Dubois, Y., **Martin, G.**, Devriendt, J. E. G., Slyz, A., Pichon, C., Volonteri, M., Kimm, T., Kraljic, K.  
 >06/2025 | [MNRAS 539, 3797](https://doi.org/10.1093/mnras/staf667)
+
+>*Nearby dwarf galaxies with extreme star formation rates: a window into dwarf─galaxy evolution in the early Universe*  
+>Kaviraj, S., Bichang'a, B., Lazar, I., Watkins, A. E., **Martin, G.**, Jackson, R. A.  
+>06/2025 | [MNRAS 540, 594](https://doi.org/10.1093/mnras/staf716)
 
 >*Morphological Feature Distances among the Spectral Types of SDSS Galaxies*  
 >Kim, Duho, **Martin, Garreth**  
 >06/2025 | [ApJ 986, 45](https://doi.org/10.3847/1538-4357/add152)
 
->*Intracluster light is a biased tracer of the dark matter distribution in clusters*  
->Butler, M., **Martin, G.**, Hatch, N. A., Pearce, F., Brough, S., Dubois, Y.  
->05/2025 | [MNRAS 539, 2279](https://doi.org/10.1093/mnras/staf615)
-
 >*UV LIGHTS: New tools for revealing the low surface brightness regime in the ultraviolet*  
 >Ruiz Cejudo, Ignacio, Trujillo, Ignacio, Golini, Giulia, Sedighi, Nafise, Montes, Mireia, Guerra Arencibia, Sergio, D'Onofrio, Mauro, Zaritsky, Dennis, Raji, Samane, Chamba, Nushkia, Chuang, Chen-Yu, Donnerstein, Richard, Eskandarlou, Sepideh, Hosseini-ShahiSavandi, S. Zahra, Infante-Sainz, Raúl, Kaboud, Ouldouz, **Martin, Garreth**, Román, Javier, Sharbaf, Zahra  
 >05/2025 | [A&A 697, A91](https://doi.org/10.1051/0004-6361/202452836)
+
+>*Intracluster light is a biased tracer of the dark matter distribution in clusters*  
+>Butler, M., **Martin, G.**, Hatch, N. A., Pearce, F., Brough, S., Dubois, Y.  
+>05/2025 | [MNRAS 539, 2279](https://doi.org/10.1093/mnras/staf615)
 
 >*The quenching of star formation in dwarf galaxies: new perspectives from deep-wide surveys*  
 >Kaviraj, S., Lazar, I., Watkins, A. E., Laigle, C., **Martin, G.**, Jackson, R. A.  
@@ -210,13 +238,13 @@ icon: "📄"
 
 ### 2024
 
->*Stellar stripping efficiencies of satellites in numerical simulations: the effect of resolution, satellite properties, and numerical disruption*  
->**Martin, G.**, Pearce, F. R., Hatch, N. A., Contreras-Santos, A., Knebe, A., Cui, W.  
->12/2024 | [MNRAS 535, 2375](https://doi.org/10.1093/mnras/stae2488)
-
 >*New tools for studying planarity in galaxy satellite systems: Milky Way satellite planes are consistent with ΛCDM*  
 >Uzeirbegovic, E., **Martin, G.**, Kaviraj, S., Jackson, R. A., Kraljic, K., Dubois, Y., Pichon, C., Devriendt, J., Peirani, S., Silk, J., Yi, S. K.  
 >12/2024 | [MNRAS 535, 3775](https://doi.org/10.1093/mnras/stae2632)
+
+>*Stellar stripping efficiencies of satellites in numerical simulations: the effect of resolution, satellite properties, and numerical disruption*  
+>**Martin, G.**, Pearce, F. R., Hatch, N. A., Contreras-Santos, A., Knebe, A., Cui, W.  
+>12/2024 | [MNRAS 535, 2375](https://doi.org/10.1093/mnras/stae2488)
 
 >*UVCANDELS: Catalogs of Photometric Redshifts and Galaxy Physical Properties*  
 >Mehta, Vihang, Rafelski, Marc, Sunnquist, Ben, Teplitz, Harry I., Scarlata, Claudia, Wang, Xin, Fontana, Adriano, Hathi, Nimish P., Iyer, Kartheik G., Alavi, Anahita, Colbert, James, Grogin, Norman, Koekemoer, Anton, Nedkova, Kalina V., Hayes, Matthew, Prichard, Laura, Siana, Brian, Smith, Brent M., Windhorst, Rogier, Ashcraft, Teresa, Bagley, Micaela, Baronchelli, Ivano, Barro, Guillermo, Blanche, Alex, Broussard, Adam, Carleton, Timothy, Chartab, Nima, Codoreanu, Alex, Cohen, Seth, Conselice, Christopher, Dai, Y. Sophia, Darvish, Behnam, Davé, Romeel, Degroot, Laura, de Mello, Duilia, Dickinson, Mark, Emami, Najmeh, Ferguson, Henry, Ferreira, Leonardo, Finkelstein, Keely, Finkelstein, Steven, Gardner, Jonathan P., Gawiser, Eric, Gburek, Timothy, Giavalisco, Mauro, Grazian, Andrea, Gronwall, Caryl, Guo, Yicheng, Arrabal Haro, Pablo, Hemmati, Shoubaneh, Howell, Justin, Jansen, Rolf A., Ji, Zhiyuan, Kaviraj, Sugata, Kim, Keunho J., Kurczynski, Peter, Lazar, Ilin, Lucas, Ray A., MacKenty, John, Mantha, Kameswara Bharadwaj, Martin, Alec, **Martin, Garreth**, McCabe, Tyler, Mobasher, Bahram, Morales, Alexa M., O'Connell, Robert, Olsen, Charlotte, Otteson, Lillian, Ravindranath, Swara, Redshaw, Caleb, Rutkowski, Michael, Robertson, Brant, Sattari, Zahra, Soto, Emmaris, Sun, Lei, Taamoli, Sina, Vanzella, Eros, Yung, L. Y. Aaron, Zabelle, Bonnabelle, UVCANDELS Team  
@@ -226,33 +254,33 @@ icon: "📄"
 >Lazar, I., Kaviraj, S., Watkins, A. E., **Martin, G.**, Bichang'a, B., Jackson, R. A.  
 >10/2024 | [MNRAS 533, 3771](https://doi.org/10.1093/mnras/stae1956)
 
->*Dust and power: Unravelling the merger-active galactic nucleus connection in the second half of cosmic history*  
->La Marca, A., Margalef-Bentabol, B., Wang, L., Gao, F., Goulding, A. D., **Martin, G.**, Rodriguez-Gomez, V., Trager, S. C., Yang, G., Davé, R., Dubois, Y.  
->10/2024 | [A&A 690, A326](https://doi.org/10.1051/0004-6361/202348188)
-
 >*Assembly of the intracluster light in the HORIZON-AGN simulation*  
 >Brown, Harley J., **Martin, Garreth**, Pearce, Frazer R., Hatch, Nina A., Bahé, Yannick M., Dubois, Yohan  
 >10/2024 | [MNRAS 534, 431](https://doi.org/10.1093/mnras/stae2084)
 
->*The Ultraviolet Luminosity Function at 0.6 &lt; z &lt; 1 from UVCANDELS*  
->Sun, Lei, Wang, Xin, Teplitz, Harry I., Mehta, Vihang, Alavi, Anahita, Rafelski, Marc, Windhorst, Rogier A., Scarlata, Claudia, Gardner, Jonathan P., Smith, Brent M., Sunnquist, Ben, Prichard, Laura, Cheng, Yingjie, Grogin, Norman, Hathi, Nimish P., Hayes, Matthew, Koekemoer, Anton M., Mobasher, Bahram, Nedkova, Kalina V., O'Connell, Robert, Robertson, Brant, Taamoli, Sina, Yung, L. Y. Aaron, Brammer, Gabriel, Colbert, James, Conselice, Christopher, Gawiser, Eric, Guo, Yicheng, Jansen, Rolf A., Ji, Zhiyuan, Lucas, Ray A., Rutkowski, Michael, Siana, Brian, Vanzella, Eros, Ashcraft, Teresa, Bagley, Micaela, Baronchelli, Ivano, Barro, Guillermo, Blanche, Alex, Broussard, Adam, Carleton, Timothy, Chartab, Nima, Codoreanu, Alex, Cohen, Seth, Dai, Y. Sophia, Darvish, Behnam, Davé, Romeel, Degroot, Laura, de Mello, Duilia, Dickinson, Mark, Emami, Najmeh, Ferguson, Henry, Ferreira, Leonardo, Finkelstein, Keely, Finkelstein, Steven, Gburek, Timothy, Giavalisco, Mauro, Grazian, Andrea, Gronwall, Caryl, Hemmati, Shoubaneh, Howell, Justin, Iyer, Kartheik, Kaviraj, Sugata, Kurczynski, Peter, Lazar, Ilin, MacKenty, John, Mantha, Kameswara Bharadwaj, Martin, Alec, **Martin, Garreth**, McCabe, Tyler, Olsen, Charlotte, Otteson, Lillian, Ravindranath, Swara, Redshaw, Caleb, Sattari, Zahra, Soto, Emmaris, Zabelle, Bonnabelle, The Uvcandels Team  
->09/2024 | [ApJ 972, 8](https://doi.org/10.3847/1538-4357/ad5540)
+>*Dust and power: Unravelling the merger-active galactic nucleus connection in the second half of cosmic history*  
+>La Marca, A., Margalef-Bentabol, B., Wang, L., Gao, F., Goulding, A. D., **Martin, G.**, Rodriguez-Gomez, V., Trager, S. C., Yang, G., Davé, R., Dubois, Y.  
+>10/2024 | [A&A 690, A326](https://doi.org/10.1051/0004-6361/202348188)
 
 >*RMS asymmetry: a robust metric of galaxy shapes in images with varied depth and resolution*  
 >Sazonova, Elizaveta, Morgan, Cameron, Balogh, Michael, Alatalo, Katherine, Benavides, Jose A., Bluck, Asa, Brough, Sarah, Busa, Innocenza, Demarco, Ricardo, Donevski, Darko, Figueira, Miguel, **Martin, Garreth**, Mullaney, James R., Rodriguez-Gomez, Vicente, Román, Javier, Rowlands, Kate  
 >09/2024 | [OJAp 7, 77](https://doi.org/10.33232/001c.123524)
 
+>*The Ultraviolet Luminosity Function at 0.6 &lt; z &lt; 1 from UVCANDELS*  
+>Sun, Lei, Wang, Xin, Teplitz, Harry I., Mehta, Vihang, Alavi, Anahita, Rafelski, Marc, Windhorst, Rogier A., Scarlata, Claudia, Gardner, Jonathan P., Smith, Brent M., Sunnquist, Ben, Prichard, Laura, Cheng, Yingjie, Grogin, Norman, Hathi, Nimish P., Hayes, Matthew, Koekemoer, Anton M., Mobasher, Bahram, Nedkova, Kalina V., O'Connell, Robert, Robertson, Brant, Taamoli, Sina, Yung, L. Y. Aaron, Brammer, Gabriel, Colbert, James, Conselice, Christopher, Gawiser, Eric, Guo, Yicheng, Jansen, Rolf A., Ji, Zhiyuan, Lucas, Ray A., Rutkowski, Michael, Siana, Brian, Vanzella, Eros, Ashcraft, Teresa, Bagley, Micaela, Baronchelli, Ivano, Barro, Guillermo, Blanche, Alex, Broussard, Adam, Carleton, Timothy, Chartab, Nima, Codoreanu, Alex, Cohen, Seth, Dai, Y. Sophia, Darvish, Behnam, Davé, Romeel, Degroot, Laura, de Mello, Duilia, Dickinson, Mark, Emami, Najmeh, Ferguson, Henry, Ferreira, Leonardo, Finkelstein, Keely, Finkelstein, Steven, Gburek, Timothy, Giavalisco, Mauro, Grazian, Andrea, Gronwall, Caryl, Hemmati, Shoubaneh, Howell, Justin, Iyer, Kartheik, Kaviraj, Sugata, Kurczynski, Peter, Lazar, Ilin, MacKenty, John, Mantha, Kameswara Bharadwaj, Martin, Alec, **Martin, Garreth**, McCabe, Tyler, Olsen, Charlotte, Otteson, Lillian, Ravindranath, Swara, Redshaw, Caleb, Sattari, Zahra, Soto, Emmaris, Zabelle, Bonnabelle, The Uvcandels Team  
+>09/2024 | [ApJ 972, 8](https://doi.org/10.3847/1538-4357/ad5540)
+
 >*LIGHTS. Survey Overview and a Search for Low Surface Brightness Satellite Galaxies*  
 >Zaritsky, Dennis, Golini, Giulia, Donnerstein, Richard, Trujillo, Ignacio, Akhlaghi, Mohammad, Chamba, Nushkia, D'Onofrio, Mauro, Eskandarlou, Sepideh, Hosseini-ShahiSavandi, S. Zahra, Infante-Sainz, Raúl, **Martin, Garreth**, Montes, Mireia, Román, Javier, Sedighi, Nafise, Sharbaf, Zahra  
 >08/2024 | [AJ 168, 69](https://doi.org/10.3847/1538-3881/ad543f)
 
->*Galaxy merger challenge: A comparison study between machine learning-based detection methods*  
->Margalef-Bentabol, B., Wang, L., La Marca, A., Blanco-Prieto, C., Chudy, D., Domínguez-Sánchez, H., Goulding, A. D., Guzmán-Ortega, A., Huertas-Company, M., **Martin, G.**, Pearson, W. J., Rodriguez-Gomez, V., Walmsley, M., Bickley, R. W., Bottrell, C., Conselice, C., O'Ryan, D.  
->07/2024 | [A&A 687, A24](https://doi.org/10.1051/0004-6361/202348239)
-
 >*The properties of AGN in dwarf galaxies identified via SED fitting*  
 >Bichang'a, B., Kaviraj, S., Lazar, I., Jackson, R. A., Das, S., Smith, D. J. B., Watkins, A. E., **Martin, G.**  
 >07/2024 | [MNRAS 532, 613](https://doi.org/10.1093/mnras/stae1441)
+
+>*Galaxy merger challenge: A comparison study between machine learning-based detection methods*  
+>Margalef-Bentabol, B., Wang, L., La Marca, A., Blanco-Prieto, C., Chudy, D., Domínguez-Sánchez, H., Goulding, A. D., Guzmán-Ortega, A., Huertas-Company, M., **Martin, G.**, Pearson, W. J., Rodriguez-Gomez, V., Walmsley, M., Bickley, R. W., Bottrell, C., Conselice, C., O'Ryan, D.  
+>07/2024 | [A&A 687, A24](https://doi.org/10.1051/0004-6361/202348239)
 
 >*The spin magnitudes and alignments of merger-free SMBHs*  
 >Smethurst, Rebecca, Beckmann, Ricarda, Simmons, Brooke, Coil, Alison, Dubois, Yohan, Garland, Izzy, Lintott, Chris, **Martin, Garreth**, Peirani, Sebastian, Pichon, Christophe  
@@ -286,21 +314,21 @@ icon: "📄"
 >Brough, Sarah, Ahad, Syeda Lammim, Bahé, Yannick M., Ellien, Amaël, Gonzalez, Anthony H., Jiménez-Teja, Yolanda, Kimmig, Lucas C., **Martin, Garreth**, Martínez-Lombilla, Cristina, Montes, Mireia, Pillepich, Annalisa, Ragusa, Rossella, Remus, Rhea-Silvia, Collins, Chris A., Knapen, Johan H., Mihos, J. Christopher  
 >02/2024 | [MNRAS 528, 771](https://doi.org/10.1093/mnras/stad3810)
 
->*Emergence and cosmic evolution of the Kennicutt-Schmidt relation driven by interstellar turbulence*  
->Kraljic, Katarina, Renaud, Florent, Dubois, Yohan, Pichon, Christophe, Agertz, Oscar, Andersson, Eric, Devriendt, Julien, Freundlich, Jonathan, Kaviraj, Sugata, Kimm, Taysun, **Martin, Garreth**, Peirani, Sébastien, Segovia Otero, Álvaro, Volonteri, Marta, Yi, Sukyoung K.  
->02/2024 | [A&A 682, A50](https://doi.org/10.1051/0004-6361/202347917)
-
 >*Evidence for non-merger co-evolution of galaxies and their supermassive black holes*  
 >Smethurst, R. J., Beckmann, R. S., Simmons, B. D., Coil, A., Devriendt, J., Dubois, Y., Garland, I. L., Lintott, C. J., **Martin, G.**, Peirani, S.  
 >02/2024 | [MNRAS 527, 10855](https://doi.org/10.1093/mnras/stad1794)
 
->*The formation of cores in galaxies across cosmic time - the existence of cores is not in tension with the ΛCDM paradigm*  
->Jackson, R. A., Kaviraj, S., Yi, S. K., Peirani, S., Dubois, Y., **Martin, G.**, Devriendt, J. E. G., Slyz, A., Pichon, C., Volonteri, M., Kimm, T., Kraljic, K.  
->02/2024 | [MNRAS 528, 1655](https://doi.org/10.1093/mnras/stae056)
+>*Emergence and cosmic evolution of the Kennicutt-Schmidt relation driven by interstellar turbulence*  
+>Kraljic, Katarina, Renaud, Florent, Dubois, Yohan, Pichon, Christophe, Agertz, Oscar, Andersson, Eric, Devriendt, Julien, Freundlich, Jonathan, Kaviraj, Sugata, Kimm, Taysun, **Martin, Garreth**, Peirani, Sébastien, Segovia Otero, Álvaro, Volonteri, Marta, Yi, Sukyoung K.  
+>02/2024 | [A&A 682, A50](https://doi.org/10.1051/0004-6361/202347917)
 
 >*Supermassive black holes in merger-free galaxies have higher spins which are preferentially aligned with their host galaxy*  
 >Beckmann, R. S., Smethurst, R. J., Simmons, B. D., Coil, A., Dubois, Y., Garland, I. L., Lintott, C. J., **Martin, G.**, Peirani, S., Pichon, C.  
 >02/2024 | [MNRAS 527, 10867](https://doi.org/10.1093/mnras/stad1795)
+
+>*The formation of cores in galaxies across cosmic time - the existence of cores is not in tension with the ΛCDM paradigm*  
+>Jackson, R. A., Kaviraj, S., Yi, S. K., Peirani, S., Dubois, Y., **Martin, G.**, Devriendt, J. E. G., Slyz, A., Pichon, C., Volonteri, M., Kimm, T., Kraljic, K.  
+>02/2024 | [MNRAS 528, 1655](https://doi.org/10.1093/mnras/stae056)
 
 >*A Physically Motivated Framework to Compare Pair Fractions of Isolated Low- and High-mass Galaxies across Cosmic Time*  
 >Chamberlain, Katie, Besla, Gurtina, Patel, Ekta, Rodriguez-Gomez, Vicente, Torrey, Paul, **Martin, Garreth**, Johnson, Kelsey, Kallivayalil, Nitya, Patton, David, Pearson, Sarah, Privon, George, Stierwalt, Sabrina  
@@ -360,13 +388,13 @@ icon: "📄"
 >Sedgwick, Thomas M., Baldry, Ivan K., James, Philip A., Kaviraj, Sugata, **Martin, Garreth**  
 >06/2021 | [arXiv , arXiv:2106.13812](https://doi.org/10.48550/arXiv.2106.13812)
 
->*The origin of low-surface-brightness galaxies in the dwarf regime*  
->Jackson, R. A., **Martin, G.**, Kaviraj, S., Ramsøy, M., Devriendt, J. E. G., Sedgwick, T., Laigle, C., Choi, H., Beckmann, R. S., Volonteri, M., Dubois, Y., Pichon, C., Yi, S. K., Slyz, A., Kraljic, K., Kimm, T., Peirani, S., Baldry, I.  
->04/2021 | [MNRAS 502, 4262](https://doi.org/10.1093/mnras/stab077)
-
 >*Dark matter-deficient dwarf galaxies form via tidal stripping of dark matter in interactions with massive companions*  
 >Jackson, R. A., Kaviraj, S., **Martin, G.**, Devriendt, J. E. G., Slyz, A., Silk, J., Dubois, Y., Yi, S. K., Pichon, C., Volonteri, M., Choi, H., Kimm, T., Kraljic, K., Peirani, S.  
 >04/2021 | [MNRAS 502, 1785](https://doi.org/10.1093/mnras/stab093)
+
+>*The origin of low-surface-brightness galaxies in the dwarf regime*  
+>Jackson, R. A., **Martin, G.**, Kaviraj, S., Ramsøy, M., Devriendt, J. E. G., Sedgwick, T., Laigle, C., Choi, H., Beckmann, R. S., Volonteri, M., Dubois, Y., Pichon, C., Yi, S. K., Slyz, A., Kraljic, K., Kimm, T., Peirani, S., Baldry, I.  
+>04/2021 | [MNRAS 502, 4262](https://doi.org/10.1093/mnras/stab077)
 
 >*The role of mergers and interactions in driving the evolution of dwarf galaxies over cosmic time*  
 >**Martin, G.**, Jackson, R. A., Kaviraj, S., Choi, H., Devriendt, J. E. G., Dubois, Y., Kimm, T., Kraljic, K., Peirani, S., Pichon, C., Volonteri, M., Yi, S. K.  
