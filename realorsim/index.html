@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Real or Simulated?</title>
+<meta name="robots" content="noindex">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital@0;1&family=Raleway:wght@400;600;700&family=Lato:wght@400;700&display=swap">
+<style>
+/* layout: one centred column on the cream page, a sand-coloured panel for the stamp and choices, as on
+   garrethmartin.github.io (solarized light, EB Garamond lower-case headings, Raleway and Lato text) */
+:root {
+  --base3: #fdf6e3;
+  --base2: #eee8d5;
+  --rule: #d4ceb8;
+  --text: #657b83;
+  --strong: #586e75;
+  --muted: #93a1a1;
+  --magenta: #d33682;
+  --green: #859900;
+  --red: #dc322f;
+  --blue: #268bd2;
+  --yellow: #b58900;
+  --violet: #6c71c4;
+  --cosmos: var(--blue);
+  --nh: var(--yellow);
+  --tng: var(--magenta);
+  --colibre: var(--violet);
+  --display: "EB Garamond", Georgia, serif;
+  --body: "Raleway", Arial, sans-serif;
+  --text-face: "Lato", Arial, sans-serif;
+  --mono: Monaco, "Courier New", monospace;
+  color-scheme: light;
+}
+html, body { background: var(--base3); color: var(--text); }
+body {
+  font-family: var(--body); font-size: 15px; line-height: 1.5; margin: 0; -webkit-font-smoothing: antialiased;
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px));
+  padding-block: 28px 48px;
+}
+main { max-width: 32rem; margin: 0 auto; display: flex; flex-direction: column; gap: 1rem; }
+h1 { font-family: var(--display); font-weight: 400; font-size: clamp(2rem, 7vw, 2.6rem); line-height: 1.2; letter-spacing: 0.01em; margin: 0; color: var(--muted); text-transform: lowercase; text-align: center; }
+h1 .or { color: var(--magenta); font-style: italic; }
+.bar { display: flex; justify-content: space-between; align-items: center; gap: 0.75rem; flex-wrap: wrap; padding-top: 0.8rem; border-top: 1px solid var(--rule); font-size: 0.8rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.04em; color: var(--muted); font-variant-numeric: tabular-nums; }
+.bar b { color: var(--strong); font-weight: 700; }
+.frame { position: relative; width: 100%; max-width: 100%; aspect-ratio: 1; background: #000; border: 1px solid var(--rule); overflow: hidden; }
+.frame img { width: 100%; height: 100%; display: block; object-fit: cover; }
+.frame .loading { position: absolute; inset: 0; display: grid; place-items: center; color: var(--muted); font: 0.9rem var(--body); }
+.choices { display: grid; grid-template-columns: 1fr 1fr; gap: 0.6rem; }
+.choice {
+  font-family: var(--body); font-weight: 700; font-size: clamp(1.15rem, 4.5vw, 1.4rem); text-transform: lowercase; letter-spacing: 0.01em;
+  line-height: 1; padding: 0.95rem 0.5rem; background: var(--base2); color: var(--magenta);
+  border: 1px solid var(--rule); border-radius: 2px; cursor: pointer;
+}
+.choice:hover:not(:disabled) { border-color: var(--magenta); color: var(--strong); }
+.choice:focus-visible, .next:focus-visible { outline: 2px solid var(--magenta); outline-offset: 2px; }
+.choice:disabled { cursor: default; opacity: 0.45; }
+.choice.picked.ok { opacity: 1; border-color: var(--green); color: var(--green); }
+.choice.picked.no { opacity: 1; border-color: var(--red); color: var(--red); }
+.choice.truth { opacity: 1; border-color: var(--green); color: var(--green); }
+.reveal { background: var(--base2); border: 1px solid var(--rule); padding: 0.9rem 1rem; display: flex; flex-direction: column; gap: 0.6rem; }
+.verdict { font-family: var(--display); font-weight: 400; font-size: 1.6rem; line-height: 1.1; text-transform: lowercase; margin: 0; }
+.verdict.ok { color: var(--green); }
+.verdict.no { color: var(--red); }
+.truthline { margin: 0; display: flex; align-items: center; gap: 0.5rem; flex-wrap: wrap; font-family: var(--text-face); font-size: 1rem; color: var(--strong); }
+.chip { display: inline-block; width: 0.65rem; height: 0.65rem; border-radius: 50%; flex: none; }
+.facts { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 0.4rem 0.8rem; margin: 0; padding-top: 0.6rem; border-top: 1px dotted var(--rule); font-variant-numeric: tabular-nums; }
+.facts div { display: flex; flex-direction: column; min-width: 0; }
+.facts dt { color: var(--muted); font-size: 0.68rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.04em; }
+.facts dd { margin: 0; font-family: var(--text-face); font-size: 0.95rem; color: var(--strong); }
+.next { align-self: flex-start; font: 700 0.95rem var(--body); text-transform: lowercase; background: transparent; color: var(--magenta); border: 0; border-bottom: 1px solid var(--magenta); padding: 0.15rem 0; cursor: pointer; }
+.next:hover { color: var(--strong); border-color: transparent; }
+.end { display: flex; flex-direction: column; gap: 0.8rem; align-items: flex-start; }
+.end .big { font-family: var(--display); font-weight: 400; font-size: clamp(3rem, 13vw, 4.2rem); line-height: 1; margin: 0; color: var(--strong); }
+.end .big span { color: var(--muted); font-size: 0.45em; }
+.end p { margin: 0; font-family: var(--text-face); font-size: 1rem; }
+.breakdown { display: flex; flex-direction: column; gap: 0.35rem; margin: 0; padding: 0; list-style: none; font-family: var(--text-face); font-size: 1rem; }
+.breakdown li { display: flex; align-items: center; gap: 0.5rem; }
+.keys { font-size: 0.75rem; color: var(--muted); margin: 0; padding-top: 0.8rem; border-top: 1px solid var(--rule); text-align: center; }
+[hidden] { display: none !important; }
+img { max-width: 100%; }
+@media (prefers-reduced-motion: no-preference) {
+  .frame img { transition: opacity 160ms ease; }
+}
+</style>
+</head>
+<body>
+
+<main>
+  <h1>Real <span class="or">or</span> Simulated?</h1>
+
+  <div class="bar">
+    <span id="progress">Galaxy <b>1</b> of <b>20</b></span>
+    <span id="score">Score <b>0</b> · Streak <b>0</b></span>
+  </div>
+
+  <section id="play" aria-live="polite">
+    <div class="frame">
+      <img id="stamp" alt="Galaxy postage stamp, gri colour composite" hidden>
+      <div class="loading" id="loading">Loading galaxies…</div>
+    </div>
+  </section>
+
+  <div class="choices" id="choices">
+    <button class="choice" id="choice-real" type="button" data-key="real">Real</button>
+    <button class="choice" id="choice-sim" type="button" data-key="sim">Simulated</button>
+  </div>
+
+  <section class="reveal" id="reveal" hidden aria-live="polite">
+    <p class="verdict" id="verdict"></p>
+    <p class="truthline" id="truthline"></p>
+    <dl class="facts" id="facts"></dl>
+    <button class="next" id="next" type="button">Next galaxy</button>
+  </section>
+
+  <section class="end" id="end" hidden>
+    <p class="big" id="final"></p>
+    <p id="finalnote"></p>
+    <ul class="breakdown" id="breakdown"></ul>
+    <button class="next" id="again" type="button">Play again</button>
+  </section>
+
+  <p class="keys">Keys: R real, S simulated, Enter next</p>
+</main>
+
+<script>
+(() => {
+  const ROUND = 20;
+  const SRC = {
+    COSMOS: { name: 'COSMOS (HSC-SSP)', color: 'var(--cosmos)', real: true },
+    NH: { name: 'NewHorizon', color: 'var(--nh)', real: false },
+    TNG: { name: 'TNG50', color: 'var(--tng)', real: false },
+    COLIBRE: { name: 'COLIBRE', color: 'var(--colibre)', real: false },
+  };
+  const $ = (id) => document.getElementById(id);
+  let stamps = [];
+  let s = { deck: [], i: 0, score: 0, streak: 0, answered: false, log: [] };
+
+  const store = {
+    get(k) { try { return localStorage.getItem(k); } catch (e) { return null; } },
+    set(k, v) { try { localStorage.setItem(k, v); } catch (e) { /* storage unavailable */ } },
+  };
+
+  function shuffle(a) {
+    for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; }
+    return a;
+  }
+
+  // half real, half simulated in every round, the simulated half split as evenly as possible between the three
+  // simulations (the remainder goes to a randomly chosen one)
+  function newDeck() {
+    const pool = (src) => shuffle(stamps.map((x, i) => i).filter((i) => stamps[i].source === src));
+    const sims = shuffle(['NH', 'TNG', 'COLIBRE']);
+    const nSim = ROUND / 2;
+    let deck = pool('COSMOS').slice(0, ROUND - nSim);
+    sims.forEach((src, j) => { deck = deck.concat(pool(src).slice(0, Math.floor(nSim / 3) + (j < nSim % 3 ? 1 : 0))); });
+    return shuffle(deck);
+  }
+
+  function updateBar() {
+    $('progress').innerHTML = `Galaxy <b>${Math.min(s.i + 1, ROUND)}</b> of <b>${ROUND}</b>`;
+    $('score').innerHTML = `Score <b>${s.score}</b> · Streak <b>${s.streak}</b>`;
+  }
+
+  function show() {
+    const g = stamps[s.deck[s.i]];
+    const img = $('stamp');
+    img.src = 'data:image/jpeg;base64,' + g.img;
+    img.hidden = false;
+    $('loading').hidden = true;
+    s.answered = false;
+    for (const b of $('choices').querySelectorAll('.choice')) { b.disabled = false; b.className = 'choice'; }
+    $('reveal').hidden = true;
+    $('end').hidden = true;
+    $('play').hidden = false;
+    $('choices').hidden = false;
+    updateBar();
+  }
+
+  function answer(choice) {
+    if (s.answered || !stamps.length || !$('end').hidden) return;
+    s.answered = true;
+    const g = stamps[s.deck[s.i]];
+    const meta = SRC[g.source];
+    const ok = (choice === 'real') === meta.real;
+    s.score += ok ? 1 : 0;
+    s.streak = ok ? s.streak + 1 : 0;
+    s.log.push({ source: g.source, ok });
+    const truthKey = meta.real ? 'real' : 'sim';
+    for (const b of $('choices').querySelectorAll('.choice')) {
+      b.disabled = true;
+      if (b.dataset.key === choice) b.classList.add('picked', ok ? 'ok' : 'no');
+      if (!ok && b.dataset.key === truthKey) b.classList.add('truth');
+    }
+    const v = $('verdict');
+    v.textContent = ok ? 'Correct' : 'Not this time';
+    v.className = 'verdict ' + (ok ? 'ok' : 'no');
+    $('truthline').innerHTML = `<span class="chip" style="background:${meta.color}"></span>`
+      + (meta.real ? 'Real: a COSMOS galaxy observed by HSC-SSP.' : `Simulated: a ${meta.name} galaxy placed into real HSC sky.`);
+    const f = [
+      ['Stellar mass', `10<sup>${g.logm.toFixed(2)}</sup> M<sub>☉</sub>`], ['Redshift', g.z.toFixed(3)],
+      ['Half-light radius', `${g.reff_kpc.toFixed(1)} kpc`], ['Concentration', g.conc.toFixed(2)],
+      ['Sérsic index', g.n.toFixed(2)], ['Ellipticity', g.e.toFixed(2)],
+    ];
+    $('facts').innerHTML = f.map(([k, val]) => `<div><dt>${k}</dt><dd>${val}</dd></div>`).join('');
+    $('next').textContent = s.i + 1 >= ROUND ? 'See your score' : 'Next galaxy';
+    $('reveal').hidden = false;
+    updateBar();
+    $('next').focus({ preventScroll: true });
+  }
+
+  function next() {
+    if (!s.answered) return;
+    s.i += 1;
+    if (s.i >= ROUND) return finish();
+    show();
+  }
+
+  function finish() {
+    $('play').hidden = true; $('choices').hidden = true; $('reveal').hidden = true;
+    const best = Math.max(Number(store.get('ros-best') || 0), s.score);
+    store.set('ros-best', String(best));
+    $('final').innerHTML = `${s.score}<span> / ${ROUND}</span>`;
+    $('finalnote').textContent = `Your best: ${best} / ${ROUND}.`;
+    const by = {};
+    for (const r of s.log) { by[r.source] = by[r.source] || [0, 0]; by[r.source][0] += r.ok ? 1 : 0; by[r.source][1] += 1; }
+    $('breakdown').innerHTML = ['COSMOS', 'NH', 'TNG', 'COLIBRE'].filter((k) => by[k]).map((k) =>
+      `<li><span class="chip" style="background:${SRC[k].color}"></span>${SRC[k].name}: ${by[k][0]} of ${by[k][1]} right</li>`).join('');
+    $('end').hidden = false;
+    $('progress').innerHTML = 'Round <b>complete</b>';
+    $('again').focus({ preventScroll: true });
+  }
+
+  function start() {
+    s = { deck: newDeck(), i: 0, score: 0, streak: 0, answered: false, log: [] };
+    show();
+  }
+
+  for (const b of $('choices').querySelectorAll('.choice')) b.addEventListener('click', () => answer(b.dataset.key));
+  $('next').addEventListener('click', next);
+  $('again').addEventListener('click', start);
+  document.addEventListener('keydown', (e) => {
+    if (e.metaKey || e.ctrlKey || e.altKey) return;
+    const k = e.key.toLowerCase();
+    if (!s.answered && (k === 'r' || k === 's')) answer(k === 'r' ? 'real' : 'sim');
+    else if (k === 'enter' && s.answered && $('end').hidden) { e.preventDefault(); next(); }
+  });
+
+  fetch('stamps.json').then((r) => r.json()).then((d) => { stamps = d.stamps; start(); })
+    .catch(() => { $('loading').textContent = 'The galaxy images did not load. Reload the page to try again.'; });
+})();
+</script>
+</body>
+</html>
