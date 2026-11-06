@@ -51,6 +51,7 @@ def main():
         "date:   2013-12-04 12:00:00",
         "categories: posts",
         'icon: "💻"',
+        "permalink: /repositories/",
         "---",
         "",
         f"Public repositories on [`GitHub`](https://github.com/{GITHUB_USER}) — excluding forks.",

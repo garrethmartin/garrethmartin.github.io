@@ -5,6 +5,7 @@ cover: NHz.png
 date:   2013-12-09 12:00:00
 categories: posts
 icon: "📄"
+permalink: /publications/
 ---
 
 [`ADS Library`](https://ui.adsabs.harvard.edu/public-libraries/nThU2Yw3SUytqSYjksZ8uA "ADS library") &nbsp;&#9632;&nbsp; [`Google Scholar`](https://scholar.google.com/citations?user=4O8TNrgAAAAJ "Google Scholar") &nbsp;&#9632;&nbsp; [`Publication list (PDF)`](/files/publication_list.pdf "Publication list")
