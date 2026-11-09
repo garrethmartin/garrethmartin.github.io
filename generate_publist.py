@@ -16,6 +16,7 @@ LIBRARY_ID   = "nThU2Yw3SUytqSYjksZ8uA"
 OUT_FILE     = "_posts/2019-04-06-Publications.md"
 HEADERS      = {"Authorization": f"Bearer {ADS_TOKEN}"}
 SCHOLAR_CACHE = os.path.join(os.path.expanduser("~/Code/CV_stuff"), "scholar_cache.json")
+MAX_AUTHORS  = 8   # truncate longer author lists as in the PDF publication list
 
 
 # ADS records still carry authors' former names; override the display form here
@@ -64,12 +65,25 @@ def is_catalog(p):
     )
 
 
+def truncate_authors(authors, target_idx, max_authors=MAX_AUTHORS):
+    """Shorten an author list as in the PDF list, keeping the target author if beyond the cut."""
+    if len(authors) <= max_authors:
+        return authors
+    if target_idx >= max_authors:
+        subset = authors[:max_authors - 1] + ["...", authors[target_idx]]
+        if target_idx < len(authors) - 1:
+            subset.append("et al.")
+        return subset
+    return authors[:max_authors] + ["et al."]
+
+
 def format_paper(p):
     raw_title = (p.get("title") or [""])[0]
     title     = f"*{latex_to_utf8(raw_title)}*"
     authors   = [apply_author_override(latex_to_utf8(a)) for a in (p.get("author") or [])]
-    authors   = [f"**{a}**" if "Martin, G" in a else a for a in authors]
-    author_str = ", ".join(authors)
+    target    = next((i for i, a in enumerate(authors) if "Martin, G" in a), -1)
+    authors   = [f"**{a}**" if i == target else a for i, a in enumerate(authors)]
+    author_str = ", ".join(truncate_authors(authors, target))
     year    = p.get("year") or "n.d."
     date    = p.get("pubdate") or ""
     month   = date.split("-")[1] if date else ""
